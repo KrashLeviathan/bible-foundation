@@ -1,0 +1,775 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif;
+}
+
+* {
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    background-color: #05A;
+    border: 1px #000 solid;
+    font-weight: 700;
+    color: #FFF;
+    font-size: 1.2em;
+    margin-bottom: 1em;
+    clear: both;
+    white-space: nowrap;
+    padding: 1px 80px 2px;
+}
+
+h2 a {
+    font-weight: 700;
+    color: #FFF;
+}
+
+h2 a:hover {
+    font-weight: 700;
+    color: #0091d0;
+    text-decoration: none;
+}
+
+h3 {
+    font-size: 1.2em;
+    font-weight: 700;
+    clear: left;
+    margin: 1em 0 0.5em;
+    padding: 1px 80px 2px;
+}
+
+h4 {
+    font-size: 1em;
+    font-weight: 700;
+    margin-bottom: 0.5em;
+    padding: 1px 80px 2px;
+}
+
+pre {
+    font-size: 1em;
+    background: #F0F0F0 none repeat scroll 0;
+    border: 1px dotted #3C78B5;
+    overflow: auto;
+    white-space: pre;
+    clear: both;
+    margin: 1em 2em;
+    padding: 0.5em;
+}
+
+p {
+    margin: 0.7em 0;
+}
+
+a {
+    color: #05A;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a img {
+    border: 1px #FFF solid;
+}
+
+strong {
+    font-weight: 700;
+    font-style: normal;
+}
+
+ul {
+    list-style: inside;
+    margin: 0.5em 1em 1em 2em;
+}
+
+ol {
+    list-style-position: outside;
+}
+
+ol li {
+    padding: 3px;
+}
+
+ul li ul {
+    padding-left: 2em;
+    list-style-type: circle;
+    margin: 0;
+}
+
+dl {
+    margin: 1em 1em 1em 2em;
+}
+
+dt {
+    margin-right: 1em;
+    font-weight: 700;
+}
+
+dd {
+    margin: 0.5em 0 0.5em 2em;
+}
+
+hr {
+    border: none;
+    border-top: 1px #05A solid;
+    clear: both;
+    color: #fff;
+    display: none;
+    margin: 0 35px 0.7em;
+}
+
+table {
+    border: 1px #000 solid;
+    margin: 1em 2em;
+}
+
+td {
+    vertical-align: middle;
+    text-align: left;
+    border: 1px #000 solid;
+    padding: 0.25em 0.5em;
+}
+
+th {
+    color: #FFF;
+    font-weight: 700;
+    vertical-align: middle;
+    text-align: center;
+    background: #05A;
+    border: 1px #000 solid;
+    padding: 0.25em 0.5em;
+}
+
+img {
+    float: left;
+    clear: left;
+    margin-top: 0.5em;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#container {
+    font-size: 1em;
+    min-width: 40em;
+    max-width: 60em;
+    text-align: left;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+#header {
+    height: 76px;
+    position: relative;
+    overflow: visible;
+}
+
+h1 img {
+    display: block;
+    position: absolute;
+    border: 1px #FFF solid;
+    float: none;
+    z-index: 75;
+    margin: 0;
+}
+
+#pageActions {
+    left: 250px;
+    bottom: 0;
+    list-style: none;
+    margin: 0;
+}
+
+#pageActions li {
+    float: right;
+    margin: 5px 10px;
+}
+
+#pageActions li a {
+    color: #05A;
+    display: block;
+    white-space: nowrap;
+    z-index: 100;
+}
+
+#language {
+    text-align: right;
+    margin: 0;
+    padding: 0.6em;
+}
+
+#language ul {
+    list-style: none;
+}
+
+#language li {
+    display: inline;
+    padding: 0.2em 0 0.2em 1em;
+}
+
+#language li a {
+    text-decoration: underline;
+    color: #000;
+}
+
+#navigation {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    list-style: none;
+    border-bottom: 1px #000 solid;
+    z-index: 100;
+    margin: 0;
+}
+
+#navigation li {
+    float: right;
+    font-size: 0.8em;
+    margin: 0.6em 0.6em 0 0;
+}
+
+#navigation li a {
+    float: left;
+    color: #FFF;
+    border: 1px #000 solid;
+    position: relative;
+    bottom: -1px;
+    white-space: nowrap;
+    background-color: #05A;
+    text-align: center;
+    text-decoration: none;
+    z-index: 100;
+    padding: 0.3em 0.6em;
+}
+
+#navigation li a.here, #navigation li a.here:hover {
+    color: #000;
+    position: relative;
+    border-bottom: 1px #FFF solid;
+    background-color: #FFF;
+}
+
+#navigation li a:hover {
+    color: #FFF;
+    background-color: #0091d0;
+}
+
+#content {
+    border-bottom: 1px #000 solid;
+    border-left: 1px #000 solid;
+    border-right: 1px #000 solid;
+    font-size: 1em;
+    margin-top: -1px;
+    overflow: hidden;
+    padding: 10px 10px 1em;
+}
+
+#pageInfo {
+    border: 1px #05A solid;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+#preview {
+    border: 2px #05A dashed;
+    overflow: hidden;
+    margin: 1em 1em 2em;
+    padding: 10px;
+}
+
+#footer {
+    text-align: center;
+    font-size: 1em;
+    padding: 10px;
+}
+
+#footer p {
+    margin: 0 0 0.5em;
+}
+
+a.footnoteref {
+    font-size: 0.56em;
+    vertical-align: super;
+}
+
+div.widemargins p, div.widemargins ul, div.widemargins ol, div.widemargins div.thetopten, div.widemargins div.ratingkey, div.widemargins div.noparagraph, div.widemargins .quote, div.widemargins pre, div.widemargins table, div.widemargins form, div.widemargins dl {
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+div.toptenitem {
+    float: left;
+    width: 98%;
+    margin: 1.5em 0;
+}
+
+div.toptennumber {
+    font-size: 1.28em;
+    float: left;
+    width: 1.4em;
+    text-align: right;
+}
+
+div.toptentext {
+    float: right;
+    width: 90%;
+}
+
+div.ruletitle {
+    float: left;
+    font-size: 1.28em;
+}
+
+div.rulerating {
+    float: right;
+    text-align: right;
+    width: 11em;
+}
+
+div.ruledescription {
+    float: left;
+    width: 100%;
+}
+
+div.rulerating table {
+    width: 11em;
+    margin: 0;
+}
+
+div.rulerating th, div.rulerating td {
+    width: 33%;
+}
+
+div.rulerating th {
+    font-size: 0.8em;
+    padding: 0.1em;
+}
+
+div.rulerating td {
+    font-size: 1.28em;
+    text-align: left;
+    padding: 0 0 0 0.2em;
+}
+
+span.stars {
+    font-weight: 700;
+    vertical-align: bottom;
+    line-height: 0.8em;
+}
+
+div.ratingkey table {
+    margin: 1em 0;
+}
+
+div.ratingkey td {
+    text-align: left;
+    vertical-align: top;
+}
+
+span.saving {
+    display: block;
+    text-align: right;
+    padding: 0 0.4em;
+}
+
+object {
+    border: 0;
+    float: left;
+    width: 100%;
+    min-height: 4em;
+}
+
+.centeredblock img.inline {
+    display: block;
+    float: none;
+    margin: 0 auto;
+}
+
+.nofloatblock img.inline {
+    display: block;
+    float: none;
+}
+
+.imagetable table {
+    margin: 0;
+}
+
+.imagetable tr td img {
+    margin: 0;
+    padding: 0;
+}
+
+div.widemargins img#flushright {
+    float: right;
+    clear: none;
+    margin: 0 -5px;
+    padding: 0;
+}
+
+div.indent {
+    margin-left: 65px;
+}
+
+div.indent img, div.indent hr {
+    margin-left: -65px;
+}
+
+div.indent div.indent img, div.indent div.indent hr {
+    margin-left: -130px;
+}
+
+div.indent div.indent div.indent img, div.indent div.indent div.indent hr {
+    margin-left: -195px;
+}
+
+div.indent div.indent div.indent div.indent img, div.indent div.indent div.indent div.indent hr {
+    margin-left: -250px;
+}
+
+div.frame, div.leftColumn, div.rightColumn {
+    border: 1px #05A solid;
+    margin: 0 35px 1em;
+    padding: 0.7em 45px 1.7em;
+}
+
+div.frame h3, div.frame h4 {
+    margin-left: -80px;
+    margin-right: -80px;
+}
+
+div.frame h2, div.panel h2, div.leftColumn h2, div.rightColumn h2 {
+    border: none;
+    border-bottom: 1px #000 solid;
+    margin-top: -5px;
+    margin-left: -10px;
+    margin-right: -10px;
+    text-align: center;
+}
+
+div.navigation {
+    float: right;
+    border: 1px #000 solid;
+    margin: 0 0 10px 5px;
+}
+
+div.navigation h2 {
+    border: none;
+    text-align: center;
+    margin: 0;
+}
+
+div.navigation ul {
+    list-style: none;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+div.navigation li {
+    border-top: 1px #000 solid;
+    display: block;
+    position: relative;
+    line-height: 0;
+    margin: 0;
+    padding: 0;
+}
+
+div.navigation li a {
+    font-weight: 700;
+    position: relative;
+    display: block;
+    line-height: 1em;
+    margin: 0;
+    padding: 5px 10px;
+}
+
+div.navigation li a:hover {
+    background: #0091d0;
+    color: #FFF;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+div.leftColumn {
+    width: 46%;
+    float: left;
+    clear: left;
+}
+
+div.rightColumn {
+    width: 46%;
+    float: right;
+    clear: right;
+}
+
+div.panel {
+    border: 1px #000 solid;
+    background: #05A;
+    color: #FFF;
+    text-align: center;
+    font-weight: 700;
+    overflow: hidden;
+    margin: 0 0 10px;
+    padding: 0;
+}
+
+div.panel * {
+    margin: 5px;
+}
+
+div.panel a:hover {
+    color: #0091d0;
+}
+
+.comment {
+    color: red;
+}
+
+div.large_title {
+    font-size: 2em;
+    margin-left: 0.25em;
+    float: left;
+}
+
+div.small_title {
+    font-size: 1.2em;
+    margin-left: 0.42em;
+    float: left;
+    clear: left;
+}
+
+.error {
+    font-weight: 700;
+    font-style: italic;
+    color: #05A;
+    margin: 1em;
+}
+
+.right {
+    float: right;
+    clear: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.left {
+    float: left;
+    clear: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.none {
+    float: none;
+    margin: 0;
+}
+
+.composite {
+    margin: 0 25px 0 0;
+}
+
+.quote {
+    padding-left: 10px;
+    border-left: 4px solid #000;
+    font-style: italic;
+    display: block;
+}
+
+.navlinks {
+    margin: 0 35px;
+}
+
+.prevguide, .nextguide {
+    font-weight: 700;
+    float: left;
+    padding: 0.3em 0 1px;
+}
+
+.nextguide {
+    float: right;
+}
+
+.prevguide a:hover, .nextguide a:hover {
+    text-decoration: none;
+    border-bottom: 1px solid;
+}
+
+div.glossary {
+    margin: 0 80px;
+}
+
+div.widemargins div.glossary table.wikitable {
+    margin: 0 80px 0.7em 0;
+}
+
+div.inline {
+    margin: 1em;
+}
+
+div.inline * {
+    display: inline;
+}
+
+label {
+    display: block;
+    font-size: 1em;
+    color: #05A;
+    margin: 1em 2em;
+}
+
+textarea {
+    border: 1px #000 solid;
+    display: block;
+    font-size: 1em;
+    width: 30em;
+    height: 20em;
+    max-width: 75%;
+    overflow: auto;
+    margin-top: 2px;
+    font-family: monospace;
+    padding: 2px;
+}
+
+textarea.editor {
+    height: 40em;
+    width: 90%;
+    max-width: 90%;
+}
+
+.alt {
+    background-color: #f8f8f8;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin: 0;
+    padding: 10px;
+}
+
+small {
+    font-family: Arial, Helvetica, Sans-Serif;
+    font-size: 0.9em;
+    color: #777;
+}
+
+h3.wpcomments {
+    padding-left: 80px;
+}
+
+.commentlist li {
+    font-weight: 700;
+    font-size: 0.9em;
+    list-style: none;
+    margin: 15px 80px 3px;
+    padding: 5px 10px 3px;
+}
+
+.commentlist cite {
+    font-weight: 700;
+    font-style: normal;
+    font-size: 1.1em;
+}
+
+.commentlist p {
+    font-weight: 400;
+    line-height: 1.5em;
+    margin: 10px 5px 10px 0;
+}
+
+.commentlist {
+    text-align: justify;
+    padding: 0;
+}
+
+.commentmetadata {
+    font-weight: 400;
+    display: block;
+    margin: 0;
+}
+
+.post {
+    text-align: justify;
+}
+
+#commentform {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    width: 80%;
+    margin: 0 auto 10px 80px;
+    padding: 5px;
+}
+
+#commentform div {
+    margin: 20px 5px 20px 0;
+}
+
+#commentform input {
+    width: 350px;
+    border: 1px solid #000;
+    font-size: 0.9em;
+    margin: 0;
+    padding: 2px;
+}
+
+#commentform textarea {
+    display: inline;
+    width: 350px;
+    max-width: 350px;
+    height: 200px;
+    border: 1px solid #000;
+    font-size: 0.9em;
+    font-family: 'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif;
+    margin: 5px 5px 1px 0;
+    padding: 2px;
+}
+
+#commentform #submit {
+    width: auto;
+    margin: 1px;
+}
+
+#commentform label.replylabel {
+    width: 12em;
+    display: block;
+    float: left;
+    clear: left;
+    font-size: small;
+    color: #000;
+    margin: 0;
+}
+
+#commentform p {
+    margin: 5px 0;
+}
+
+.commentsiframe {
+    clear: both;
+    float: none;
+    width: 95%;
+}
+
+li, form {
+    font-size: 1em;
+}
+
+th a, div.panel a {
+    color: #FFF;
+}
+
+h1, h1 a, div.ratingkey {
+    float: left;
+}
+
+div.widemargins div.quote p, div.frame p, div.frame table, div.frame ul {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+div.ratingkey th, .imagetable tr td {
+    padding: 0;
+}
+
+textArea:hover, textArea:focus, #commentform input:focus, #commentform textarea:focus {
+    border: 2px #000 solid;
+    padding: 1px;
+}
