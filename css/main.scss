@@ -59,6 +59,7 @@ textarea {
 $subdued-text: #777777;
 $primary-blue: #05A;
 $secondary-blue: #0091d0;
+$alternate-blue: #66d1ff;
 
 body {
     font-family: 'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif;
@@ -200,11 +201,18 @@ img {
     margin-bottom: 10px;
 }
 
-#container {
+#container, #header-container {
     font-size: 1em;
     text-align: left;
     margin: 0 auto;
     padding: 0 10px;
+}
+
+#header-container {
+    padding: 0 1em;
+    background-color: $primary-blue;
+    border-bottom: 1px #000 solid;
+    color: white;
 }
 
 #header {
@@ -219,7 +227,6 @@ img {
     width: 100%;
     bottom: 0;
     list-style: none;
-    border-bottom: 1px #000 solid;
     z-index: 100;
     margin: 0;
     padding: 0;
@@ -234,7 +241,7 @@ img {
             position: relative;
             bottom: -1px;
             white-space: nowrap;
-            background-color: $primary-blue;
+            background-color: $secondary-blue;
             text-align: center;
             text-decoration: none;
             z-index: 100;
@@ -247,7 +254,7 @@ img {
             }
             &:hover {
                 color: #FFF;
-                background-color: $secondary-blue;
+                background-color: $alternate-blue;
             }
         }
     }
@@ -281,6 +288,7 @@ img {
     font-size: 0.8em;
     font-weight: 100;
     letter-spacing: 0.2em;
+    color: $alternate-blue;
 }
 
 .error {
