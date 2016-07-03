@@ -65,7 +65,11 @@ h2 {
   margin-bottom: 1em;
   clear: both;
   white-space: nowrap;
-  padding: 1px 80px 2px; }
+  padding: 1px 2em 2px;
+  -webkit-border-radius: 0.5em;
+  -moz-border-radius: 0.5em;
+  -ms-border-radius: 0.5em;
+  border-radius: 0.5em; }
   h2 a {
     font-weight: 700;
     color: #FFF; }
@@ -202,7 +206,11 @@ img {
       text-align: center;
       text-decoration: none;
       z-index: 100;
-      padding: 0.3em 0.6em; }
+      padding: 0.3em 0.6em;
+      -webkit-border-radius: 0.5em 0.5em 0 0;
+      -moz-border-radius: 0.5em 0.5em 0 0;
+      -ms-border-radius: 0.5em 0.5em 0 0;
+      border-radius: 0.5em 0.5em 0 0; }
       #navigation li a.here, #navigation li a.here:hover {
         color: #000;
         position: relative;
@@ -287,6 +295,9 @@ textarea {
     width: 90%;
     max-width: 90%; }
 
+blockquote {
+  margin: 1.2em 2.5em; }
+
 /* ==========================================================================
    Media Queries
    ========================================================================== */
@@ -362,6 +373,7 @@ textarea {
 
   pre,
   blockquote {
+    margin: 1.2em 2.5em;
     border: 1px solid #999;
     page-break-inside: avoid; }
 
