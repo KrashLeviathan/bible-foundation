@@ -10,12 +10,9 @@ CDIR=$(pwd)
 # The target directory is a sibling directory with the same name minus the underscore
 TDIR="$CDIR/../posts"
 
-# The <head> element for the html file
-HTMLHEAD=`cat post-head.html`
-
-# Body element tags
-BODYOPEN="<body>"
-BODYCLOSE="</body>"
+# The opening and closing html elements for the post
+HTMLOPEN=`cat post-begin.html`
+HTMLCLOSE=`cat post-end.html`
 
 # Iterate through the directories recursively
 for i in $(ls -R | grep :); do
@@ -28,13 +25,12 @@ for i in $(ls -R | grep :); do
     for FILENAME in ./*.md; do
         TARGETFILE="$TDIR/$DIR/$(basename "$FILENAME" .md).html"
         echo "    Converting $FILENAME"
-        # Add the head and opening body tag
-        echo ${HTMLHEAD} > ${TARGETFILE}
-        echo ${BODYOPEN} >> ${TARGETFILE}
+        # Add the beginning parts of the html
+        echo ${HTMLOPEN} > ${TARGETFILE}
         # Convert to html
         python -m markdown "$FILENAME" >> "$TARGETFILE"
         # Add the closing html
-        echo ${BODYCLOSE} >> ${TARGETFILE}
+        echo ${HTMLCLOSE} >> ${TARGETFILE}
         # Tidy up the file (make it formatted pretty)
         tidy -i -m -q -w 120 -ashtml -utf8 "$TARGETFILE"
     done
