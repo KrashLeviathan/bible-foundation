@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+<head>
+    <meta name="generator" content=
+        "HTML Tidy for Mac OS X (vers 31 October 2006 - Apple Inc. build 15.17), see www.w3.org">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>Bible Foundation | Locations</title>
+    <meta name="description" content="Recycling and redistributing bibles through a network of believers">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/normalize.min.css" type="text/css">
+    <link rel="stylesheet" href="css/main.css" type="text/css"><!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script>window.html5 || document.write('<script src="js/vendor/html5shiv/html5shiv.min.js"><\/script>')</script>
+    <![endif]-->
+</head>
+
+<body>
+<div id="header-container">
+    <div id='header' class="widemargins">
+        <div class='large-title'>
+            Bible Foundation
+        </div>
+
+        <div class='small-title'>
+            Seed for the sower and bread for the eater
+        </div>
+
+        <ul id='navigation'>
+            <li><a href='contact.html'>Contact</a></li>
+
+            <li><a href='news.html'>News</a></li>
+
+            <li><a href='resources.html'>Resources</a></li>
+
+            <li><a href='get-involved.html'>Get Involved</a></li>
+
+            <li><a href='about.html'>About</a></li>
+
+            <li><a class='here' href='#'>Locations</a></li>
+
+            <li><a href='index.html'>Home</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id='container'>
+    <div id='content'>
+        <div class="widemargins">
+            <h1>Locations</h1>
+
+            <h2>Master Bible Collection/Distribution Centers in U.S.A. & Canada</h2>
+
+            <p>U.S.A. is alphabetical by state code then city. Make contact before
+            special trips. Bibles, even parts of old Bibles, can be sent to the
+            collection centers listed below.</p>
+
+            <a href="get-involved.html">Get involved!</a> Become part of our network!
+
+            <h2>U.S.A. Locations</h2>
+            <div id="locations-list"></div>
+
+            <div class="error">## MORE TO BE ADDED
+
+            http://www.bf.org/bibledrive/northwest.htm</div>
+
+            <h2>Please help this network grow.</h2>
+
+            <p>Master collection centers need to be
+            able to accept, protect, store, and transport loads of Bibles, even
+            damaged ones. They are independent and responsible for how the Bibles
+            are distributed. Master collection centers ship Bibles around the world
+            or to ministries that do. We encourage master collection centers to find
+            collection sites that will accept and transport Bibles to them and then
+            list those collection sites on a webpage that we can link to from their
+            listing on this page. Please share this information with anyone that
+            might be interested in seeing Bibles go to hungry hearts around the
+            world. Establishing master collection centers, collection sites,
+            publicity channels, transportation connections, donor support, volunteer
+            connections, and prayer support helps. Individuals and groups can start
+            informal independent Bible distribution clubs to gather information to
+            share and do projects to help move Bibles. For more information, <a href="biblenet.html">click
+            here</a>.</p>
+
+            <p>The more the network grows, the more people can start their own Bible
+            ministries. Low cost Bible sources listed on www.bf.org/bsource.htm make
+            it easy for people with a little extra money to purchase Bibles and have
+            them delivered to a master collection center. The need is very great.
+            Remember, every Bible is a missionary that can be available 24/7 for
+            many years and impact many lives.</p>
+        </div>
+
+        <div style='clear: both; visibility: hidden'></div>
+    </div>
+
+    <div id='footer'>
+        <p><a href="#">Bible Foundation</a><br>
+            PO Box 908, Newberg, Oregon 97132<br>
+            (503) 538-4897 | <a href="mailto:bf@bf.org">bf@bf.org</a></p>
+    </div>
+</div>
+<script>
+    // self executing function loads locations from locations.json
+    (function() {
+        loadJSON();
+    })();
+
+    function loadJSON() {
+        var xmlhttp = new XMLHttpRequest();
+
+        xmlhttp.onreadystatechange = function() {
+            if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+                if (xmlhttp.status == 200) {
+                    handleJSON(xmlhttp.responseText);
+                }
+                else if (xmlhttp.status == 400) {
+                    document.getElementById("locations-list").innerHTML = "<p>Unable to retrieve locations at this time.</p>";
+                }
+                else {
+                    document.getElementById("locations-list").innerHTML = "<p>Unable to retrieve locations at this time.</p>";
+                }
+            }
+        };
+
+        xmlhttp.open("GET", "js/locations.json", true);
+        xmlhttp.send();
+    }
+
+    function handleJSON(data) {
+        var json = JSON.parse(data);
+        var text = "";
+        var loc;
+        for (i = 0; i < json.locations.length; i++) {
+            loc = json.locations[i];
+            text += "<p>";
+            json.catalog_info.tags.forEach(addToText);
+            text += "</p>";
+        }
+        document.getElementById("locations-list").innerHTML = text;
+
+        function addToText(item, index) {
+            if (loc[item]) {
+                switch (item) {
+                    case "title":
+                        text += "<b>" + loc.title + "</b><br>";
+                        break;
+                    case "city":
+                        text += loc.city + ", ";
+                        break;
+                    case "state":
+                        text += loc.state + " ";
+                        break;
+                    case "zip":
+                        text += loc.zip + "<br>";
+                        break;
+                    case "website":
+                        text += "<a href='http://" + loc.website + "' target='_blank'>" + loc.website + "</a><br>";
+                        break;
+                    case "email":
+                        text += "<a href='mailto:" + loc.email + "'>" + loc.email + "</a><br>";
+                        break;
+                    default:
+                        text += loc[item] + "<br>";
+                }
+            }
+        }
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,948 @@
+{
+    "catalog_info": {
+        "last_updated": "2016-07-04",
+        "tags": [
+            "title",
+            "care_of",
+            "street_address",
+            "po_box",
+            "city",
+            "state",
+            "zip",
+            "country",
+            "phone1",
+            "phone2",
+            "fax",
+            "website",
+            "email",
+            "other1",
+            "other2",
+            "other3"
+        ]
+    },
+    "locations": [
+        {
+            "title": "EDWIN L HODGES MINISTRIES",
+            "street_address": "60-D So. Mountain Dr",
+            "city": "Decatur",
+            "state": "AL",
+            "zip": "35603",
+            "phone1": "(256) 355-3004",
+            "website": "www.elhm.org",
+            "email": "ehodges169@aol.com"
+        },
+        {
+            "title": "HELP THE CHILDREN",
+            "street_address": "5600 Rickenbacker Road Building 1B",
+            "city": "Bell",
+            "state": "CA",
+            "zip": "90201",
+            "phone1": "(323) 980-9870",
+            "fax": "(323) 980-9878fax",
+            "website": "www.helpthechildren.org",
+            "email": "roger@helpthechildren.org"
+        },
+        {
+            "title": "SUNNY SIDE COMMUNITY SERVICES",
+            "street_address": "7 W Acacia St, Suite 7",
+            "city": "Stockton",
+            "state": "CA",
+            "zip": "95202.",
+            "phone1": "(209) 430-9432",
+            "email": "ketamia@sunnysidecommunity.org",
+            "website": "www.sunnysidecommunity.org"
+        },
+        {
+            "title": "PRESSING ON FAITH",
+            "care_of": "Joe Rivera",
+            "street_address": "42211 Stonewood Rd Suite 153",
+            "city": "Temecula",
+            "state": "CA",
+            "zip": "92591",
+            "phone1": "(951) 239-9687",
+            "email": "pressingonfaith@aol.com",
+            "other1": "Deliveries by arrangement",
+            "other2": "On Facebook enter pressingonfaithmissions"
+        },
+        {
+            "title": "FEED THE CHILDREN",
+            "street_address": "2551 E. Philadelphia Ave.",
+            "city": "Ontario",
+            "state": "CA",
+            "zip": "97161",
+            "phone1": "(909) 930-5200",
+            "other1": "8-5 M-F Call for appointment for large loads"
+        },
+        {
+            "title": "BIBLES PLUS",
+            "care_of": "Cliff and Tricia Appleby",
+            "street_address": "4753 Paradise Court",
+            "po_box": "PO Box 957",
+            "city": "Rocklin",
+            "state": "CA",
+            "zip": "95677",
+            "phone1": "(916) 624-7323",
+            "email": "biblesplus7@yahoo.com",
+            "other1": "Deliveries by arrangement"
+        },
+        {
+            "title": "Jean Dilamh, Evangelist",
+            "care_of": "Anchor of Hope Intl",
+            "street_address": "855 20th Street NorthEast",
+            "city": "Washington",
+            "state": "DC",
+            "zip": "20002",
+            "phone1": "202-534-6097",
+            "email": "jean.dilamh@yahoo.com"
+        },
+        {
+            "title": "BIBLE MISSION USA",
+            "care_of": "Faith Eckel",
+            "street_address": "4654 State Rd 64 E #244",
+            "city": "Bradenton",
+            "state": "FL",
+            "zip": "34208",
+            "phone1": "(941) 685-5814",
+            "website": "www.Bibles4free.Org",
+            "email": "Biblefree@yahoo.com"
+        },
+        {
+            "title": "FAMILY WORSHIP CENTER",
+            "street_address": "15285 SW Indian Mound Dr.",
+            "po_box": "PO Box 1",
+            "city": "Indiantown",
+            "state": "FL",
+            "zip": "34956",
+            "phone1": "(772) 597-2423",
+            "email": "svcimba@it-ma.org",
+            "other1": "Tony Zwiener 772-320-8121"
+        },
+        {
+            "title": "Walls of the Heart",
+            "care_of": "Kathy Crawford",
+            "po_box": "PO Box 1858",
+            "city": "Wauchula",
+            "state": "FL",
+            "zip": "33873",
+            "phone1": "(863) 781-3210",
+            "email": "wallsoftheheart@gmail.com",
+            "other1": "Direct deliveries by prior arrangement."
+        },
+        {
+            "title": "Pastor Alex Abiola",
+            "street_address": "13257 85th Road North,",
+            "city": "West Palm Beach",
+            "state": "FL",
+            "zip": "33412",
+            "phone1": "(561) 313-4194",
+            "other1": "Deliveries by arrangement"
+        },
+        {
+            "title": "ROLLINS PILOT INCORPORATED",
+            "street_address": "3230 Seagravees Mill Road",
+            "city": "Hull",
+            "state": "GA",
+            "zip": "30646",
+            "phone1": "(706) 549-1502"
+        },
+        {
+            "title": "AFRICAN NATIONS OUTREACH",
+            "care_of": "Pastor Jacob Omeh",
+            "street_address": "8604 Thomas Road",
+            "city": "Riverdale",
+            "state": "GA",
+            "zip": "30274",
+            "phone1": "(214) 900-5848",
+            "website": "www.africannationsoutreachministries.org",
+            "email": "jacobomeh@gmail.com",
+            "other1": "Call before deliveries"
+        },
+        {
+            "title": "BACK IN THE BATTLE BIBLES",
+            "care_of": "Jon De Rusha",
+            "street_address": "495 Canyon Park Drive",
+            "city": "Trenton",
+            "state": "GA",
+            "zip": "30752",
+            "phone1": "(423) 774-0302 mobile",
+            "email": "jderusha@charter.net"
+        },
+        {
+            "title": "LOVE PACKAGES",
+            "street_address": "220 Union St",
+            "city": "Butler",
+            "state": "IL",
+            "zip": "62015",
+            "phone1": "(217) 532-6701",
+            "website": "www.lovepackages.org",
+            "email": "enmsjs@hotmail.com"
+        },
+        {
+            "title": "WPEO",
+            "street_address": "1708 Highview Rd",
+            "city": "East Peoria",
+            "state": "IL",
+            "zip": "61611",
+            "phone1": "(309) 698-9736",
+            "website": "www.wpeo.com",
+            "other1": "M-F 9-4:30PM"
+        },
+        {
+            "title": "FEED THE CHILDREN",
+            "street_address": "22365 Elkhart East Blvd.",
+            "city": "Elkhart",
+            "state": "IN",
+            "zip": "46516",
+            "phone1": "(574) 262-5227",
+            "other1": "8-5 M-F Call for appointment for large loads"
+        },
+        {
+            "title": "Stan Hinman",
+            "street_address": "1727 North 80th Street",
+            "city": "Kansas City",
+            "state": "KS",
+            "zip": "66112",
+            "phone1": "(913) 549.3686",
+            "phone2": "(785) 893-2207 cell",
+            "other1": "Call & make arrangements before delivery"
+        },
+        {
+            "title": "BARNABAS CENTER MINISTRIES",
+            "care_of": "DBA: KBCL Radio and The Bridge",
+            "street_address": "316 Gregg St.",
+            "city": "Shreveport",
+            "state": "LA",
+            "zip": "71104",
+            "phone1": "(318) 861-1070",
+            "fax": "(318) 219-8991",
+            "website": "www.kbclthebridge.org"
+        },
+        {
+            "title": "BENJAMIN JOHN MINISTRIES",
+            "street_address": "4 Westgate Drive Apt 201",
+            "city": "Woburn",
+            "state": "MA",
+            "zip": "01801",
+            "phone1": "973-820-3161",
+            "email": "motestimonies@gmail.com",
+            "website": "www.benjaminjohnministries.org"
+        },
+        {
+            "title": "AFRICAN COAST SHIPPING",
+            "street_address": "8820 Monard Dr",
+            "city": "Silver Spring",
+            "state": "MD",
+            "zip": "20910-1815",
+            "phone1": "(301) 785-6159"
+        },
+        {
+            "title": "CHRISTIAN RESOURCES INTERNATIONAL",
+            "street_address": "200 Free St.",
+            "po_box": "PO Box 356",
+            "city": "Fowlerville",
+            "state": "MI",
+            "zip": "48836",
+            "phone1": "(517) 223-3193",
+            "fax": "(517) 223-7668",
+            "website": "www.cribooks.org",
+            "email": "admin@cribooks.org"
+        },
+        {
+            "title": "Mr Dennis Mokaya",
+            "street_address": "10837 Normandale Blvd",
+            "city": "Minneapolis",
+            "state": "MN",
+            "zip": "55437",
+            "phone1": "(612) 229-2514",
+            "other1": "Deliveries by arrangement"
+        },
+        {
+            "title": "MINNESOTA BIBLE COLLECTION",
+            "care_of": "C/O Joan Misoi",
+            "street_address": "3735 158 Street West",
+            "city": "Rosemount",
+            "state": "MN",
+            "zip": "55068",
+            "phone1": "(952) 465-7877",
+            "email": "joanmisoi@yahoo.com",
+            "website": "www.mzizichurch.org",
+            "other1": "Call to arrange deliveries"
+        },
+        {
+            "title": "CRYSTAL COPY CENTER",
+            "care_of": "Attn: Malisa Spillman",
+            "street_address": "522 Bailey Road",
+            "city": "Crystal City",
+            "state": "MO",
+            "zip": "63019",
+            "phone1": "(636) 937-8500"
+        },
+        {
+            "title": "Michael James",
+            "street_address": "805 Wayne St.",
+            "city": "Waynesboro",
+            "state": "MS",
+            "zip": "39367",
+            "phone1": "(601) 671-0695",
+            "other1": "Deliveries by arrangement"
+        },
+        {
+            "title": "Bill Klingenstein",
+            "street_address": "109 Delanie Way",
+            "city": "New Bern",
+            "state": "NC",
+            "zip": "28562",
+            "phone1": "(252) 626-2404",
+            "fax": "(252) 633-3172",
+            "email": "bill2755@suddenlink.net"
+        },
+        {
+            "title": "PILGRIM TRACT SOCIETY",
+            "street_address": "105 Depot Street",
+            "po_box": "PO Box 126",
+            "city": "Randleman",
+            "state": "NC",
+            "zip": "27317",
+            "phone1": "(336) 495-1241",
+            "website": "www.pilgrimtract.org",
+            "email": "pilgrim@northstate.net"
+        },
+        {
+            "title": "HARVEST SEEDS MINISTRY",
+            "care_of": "Pat Hamrick",
+            "street_address": "1227 Mount Sinai Ch Rd.",
+            "city": "Shelby",
+            "state": "NC",
+            "zip": "28152-0754",
+            "phone1": "(704) 487-7518",
+            "phone2": "(704) 472-5154 cell",
+            "email": "path7@carolina.rr.com",
+            "other1": "MT. SINAI BAPTIST CHURCH",
+            "other2": "Deliveries by arrangement"
+        },
+        {
+            "title": "Neal & Sharon Toberer",
+            "street_address": "513 West 12th Street",
+            "city": "Cozad",
+            "state": "NE",
+            "zip": "69130",
+            "phone1": "(308) 320-2160",
+            "email": "myway423@gmail.com",
+            "other1": "Deliveries by arrangement",
+            "other2": "Call for drop-off or pick-up information"
+        },
+        {
+            "title": "THE JESUS BOOK AND GIFT STORE",
+            "street_address": "675 US Hwy 1 South",
+            "city": "Iselin",
+            "state": "NJ",
+            "zip": "08830",
+            "other1": "(across hwy from Woodbridge Mall in back of ToysR US)",
+            "phone1": "(732) 636-7644"
+        },
+        {
+            "title": "SYRACUSE NEPALI CHURCH",
+            "street_address": "1501 Lodi Street",
+            "city": "Syracuse",
+            "state": "NY",
+            "zip": "13208",
+            "phone1": "(315) 378-7606",
+            "other1": "Contact Brother Mark"
+        },
+        {
+            "title": "SHIPPING PACKAGING PLUS",
+            "street_address": "1214 West Boston Post Road",
+            "po_box": "PO Box 426",
+            "city": "Mamaroneck",
+            "state": "NY",
+            "zip": "10543",
+            "phone1": "(718) 828-3050"
+        },
+        {
+            "title": "MONTGOMERY COMMUNITY CHURCH",
+            "care_of": "Used Book Depository",
+            "street_address": "11199 Montgomery Road",
+            "city": "Cincinnati",
+            "state": "OH",
+            "zip": "45249",
+            "phone1": "(513) 489-0892",
+            "website": "www.montgomerycommunitychurch.org"
+        },
+        {
+            "title": "FEED THE CHILDREN",
+            "street_address": "29 N McCormick",
+            "city": "Oklahoma City",
+            "state": "OK",
+            "zip": "73127",
+            "phone1": "(405) 945-4113",
+            "other1": "8-5 M-F Call for appointment for large loads"
+        },
+        {
+            "title": "BIBLE FOUNDATION",
+            "care_of": "% GF Plant Services",
+            "street_address": "1101 N. Villa Rd",
+            "po_box": "PO Box 908",
+            "city": "NEWBERG",
+            "state": "OR",
+            "zip": "97132",
+            "phone1": "(503) 538-4897",
+            "website": "www.bf.org",
+            "email": "bf@bf.org",
+            "other1": "Collection sites in Idaho, Oregon, & Washington"
+        },
+        {
+            "title": "CMTS MINISTRIES",
+            "street_address": "321 Focht Road",
+            "city": "Bernville",
+            "state": "PA",
+            "zip": "19506",
+            "phone1": "(610) 488-6975",
+            "fax": "(610) 488-6111 fax",
+            "email": "CMTSMIN@aol.com"
+        },
+        {
+            "title": "Ty Hartman",
+            "street_address": "725 Menges Mill Road",
+            "city": "Spring Grove",
+            "state": "PA",
+            "zip": "17362",
+            "phone1": "(717) 225 4487",
+            "email": "donatebibles4him@aol.com",
+            "other1": "Deliveries by arrangement"
+        },
+        {
+            "title": "CHARLESTON BIBLE SOCIETY",
+            "street_address": "342 Meeting Street",
+            "city": "Charleston",
+            "state": "SC",
+            "zip": "29403",
+            "phone1": "(843) 723-9237",
+            "website": "www.CharlestonBibleSociety.org",
+            "email": "nbryant@secondpresbyteriancharleston.org"
+        },
+        {
+            "title": "POTTER’S HOUSE FOURSQUARE CHURCH",
+            "street_address": "101 3rd Ave.",
+            "po_box": "PO Box 1673",
+            "city": "Lewisburg",
+            "state": "TN",
+            "zip": "37091",
+            "phone1": "(931) 270-7320",
+            "other1": "Deliveries by arrangement."
+        },
+        {
+            "title": "CHRIST ANOINTED MINISTRIES",
+            "care_of": "Dominic Amaechi. Pastor",
+            "street_address": "703 North Joe Wilson Rd.",
+            "city": "Cedar Hill",
+            "state": "TX",
+            "zip": "75104",
+            "phone1": "972-533-8338",
+            "email": "damaechi@att.net"
+        },
+        {
+            "title": "LIVING WORD",
+            "street_address": "2106 S. First Street",
+            "po_box": "PO Box 461161",
+            "city": "Garland",
+            "state": "TX",
+            "zip": "75041",
+            "phone1": "(214) 901-3913",
+            "email": "whatteva2004@gmail.com",
+            "other1": "Deliveries by arrangement."
+        },
+        {
+            "title": "EXODUS PRISON MINISTRY",
+            "street_address": "4243 34th Street",
+            "city": "Lubbock",
+            "state": "TX",
+            "zip": "79410",
+            "phone1": "(806) 791-3673"
+        },
+        {
+            "title": "NEW HEART ASSEMBLY MINISTRY",
+            "street_address": "2528 Oates Dr.",
+            "city": "Mesquite",
+            "state": "TX",
+            "zip": "75150",
+            "phone1": "(214) 243-9992",
+            "website": "www.NewHeartAssembly.org",
+            "email": "BrightOsigwe@sbcglobal.net 9-5 M-F"
+        },
+        {
+            "title": "ADVANCING NATIVE MISSIONS",
+            "street_address": "10460 Critizers Shop Rd",
+            "city": "Afton",
+            "state": "VA",
+            "zip": "22920",
+            "phone1": "(540) 456-7222",
+            "website": "www.adnamis.org",
+            "email": "johnt@adnamis.org"
+        },
+        {
+            "title": "HANDS FOR CHRIST",
+            "street_address": "5720 Williamson Road, Suite 111",
+            "city": "Roanoke",
+            "state": "VA",
+            "zip": "24012",
+            "phone1": "(540) 362-1214",
+            "website": "www.HandsForChrist.org",
+            "email": "hfc@handsforchrist.org"
+        },
+        {
+            "title": "EQUIPPING THE SAINTS",
+            "street_address": "1254 Keezletown Road",
+            "city": "Weyers Cave",
+            "state": "VA",
+            "zip": "24486-2318",
+            "phone1": "(540) 234-6222",
+            "fax": "(540) 234-6262 fax",
+            "website": "www.etsusa.org",
+            "email": "ets.usa@hotmail.com"
+        },
+        {
+            "title": "OMEGA LIGHT",
+            "care_of": "Young Kevin Obinna",
+            "street_address": "5544 N 57th Street",
+            "city": "Milwaukee",
+            "state": "WI",
+            "zip": "53218",
+            "phone1": "(414) 899-2785",
+            "email": "yoemega@yahoo.com"
+        },
+        {
+            "title": "HAND OF HELP",
+            "street_address": "1012 South Third St.",
+            "city": "Watertown",
+            "state": "WI",
+            "zip": "53094",
+            "phone1": "(920) 206-9910 warehouse",
+            "email": "handofhelpoffice@aol.com"
+        },
+        {
+            "title": "CHRISTIAN SALVAGE MISSION",
+            "street_address": "120 Lancing Drive, Unit #3",
+            "city": "Hamilton",
+            "state": "Ontario",
+            "zip": "L8W 3A1",
+            "country": "CANADA",
+            "phone": "(905) 574-3334",
+            "website": "www.csmcanada.org"
+        },
+        {
+            "title": "Boise Friends Church",
+            "street_address": "7751 Goddard Rd",
+            "city": "Boise",
+            "state": "ID",
+            "zip": "83704",
+            "phone1": "(208) 375-9580",
+            "other1": "By arrangement, normally Mon",
+            "other2": "Thur 8:30 - 2:30"
+        },
+        {
+            "title": "Candlelight Christian Fellowship",
+            "street_address": "5725 N. Pioneer Dr.",
+            "city": "Coeur d'Alene",
+            "state": "ID",
+            "zip": "83815",
+            "phone1": "(208) 772-7755",
+            "website": "www.candlelightfellowship.org"
+        },
+        {
+            "title": "Aloha Church of God",
+            "street_address": "18380 SW Kinnaman Rd.",
+            "city": "Aloha",
+            "state": "OR",
+            "zip": "97007",
+            "phone1": "(503) 649-5678",
+            "website": "http://alohacog.org",
+            "other1": "Tuesday-Friday 10:00-3:00"
+        },
+        {
+            "title": "Alsea Christian Fellowship",
+            "street_address": "18080 Alsea Hwy",
+            "city": "Alsea",
+            "state": "OR",
+            "zip": "97324",
+            "phone1": "(503) 541-487-4442",
+            "other1": "9-5 Mon-Fri"
+        },
+        {
+            "title": "Becki Christensen",
+            "street_address": "1840 SW Pheasant Dr.",
+            "city": "Beaverton",
+            "state": "OR",
+            "zip": "97006",
+            "phone1": "(503) 201-5993cell",
+            "email": "bexbooks@comcast.net",
+            "other1": "Deliveries by arrangement"
+        },
+        {
+            "title": "Southwest Bible Church",
+            "street_address": "14605 Southwest Weir Road",
+            "city": "Beaverton",
+            "state": "OR",
+            "zip": "97007",
+            "phone1": "(503) 524-7000",
+            "website": "www.swbible.org"
+        },
+        {
+            "title": "The Berean Call",
+            "street_address": "910 SE Wilson, Suite B-2",
+            "city": "Bend",
+            "state": "OR",
+            "zip": "97702",
+            "phone1": "(541) 382 6210"
+        },
+        {
+            "title": "Barton Community Baptist Church",
+            "care_of": "Penny Nicholas, Secretary",
+            "street_address": "25400 SE Hwy 224",
+            "city": "Boring",
+            "state": "OR",
+            "zip": "97009",
+            "phone1": "(503) 637-3258",
+            "other1": "Hours: Mon-Fri 9:00-3:30 P.M."
+        },
+        {
+            "title": "Tom & Sally King",
+            "street_address": "234 S. Egan Ave.",
+            "city": "Burns",
+            "state": "OR",
+            "zip": "97720",
+            "phone1": "(541) 573-4215",
+            "other1": "Deliveries by arrangement."
+        },
+        {
+            "title": "Zion Worship Center",
+            "street_address": "602 N. Juniper Street",
+            "city": "Canby",
+            "state": "OR",
+            "zip": "97013",
+            "phone1": "(503) 266-2655",
+            "other1": "Call to arrange delivery"
+        },
+        {
+            "title": "T's Dog Grooming",
+            "care_of": "Tammi Harrison",
+            "street_address": "611 W. Main St.",
+            "city": "Carlton",
+            "state": "OR",
+            "zip": "97111",
+            "phone1": "(503) 852-4478",
+            "other1": "Call first"
+        },
+        {
+            "title": "Wi-Ne-Ma Christian Camp",
+            "street_address": "5195 Winema Rd.",
+            "city": "Cloverdale",
+            "state": "OR",
+            "zip": "97112",
+            "phone1": "(503) 392-3362",
+            "fax": "(503) 392-3366",
+            "website": "www.winema.org",
+            "email": "winema@wcn.net"
+        },
+        {
+            "title": "Linda Smith",
+            "street_address": "760 SW Webb Rd.",
+            "city": "Cornelius",
+            "state": "OR",
+            "zip": "97113",
+            "phone1": "(503) 849-2371"
+        },
+        {
+            "title": "Eugene Friends",
+            "street_address": "3495 W. 18th Ave.",
+            "city": "Eugene",
+            "state": "OR",
+            "zip": "97402",
+            "phone1": "(541) 484-9998"
+        },
+        {
+            "title": "Gleneden Beach Christian Church",
+            "street_address": "7170 Church Ave",
+            "po_box": "PO Box 496",
+            "city": "Gleneden Beach",
+            "state": "OR",
+            "zip": "97388",
+            "phone1": "(541) 764-3855",
+            "other1": "Call to arrange deliveries."
+        },
+        {
+            "title": "Rainbow West Book & Bible",
+            "street_address": "2141 NE Burnside",
+            "city": "Gresham",
+            "state": "OR",
+            "zip": "97030",
+            "phone1": "503-667-6300"
+        },
+        {
+            "title": "Scholls Community Church",
+            "street_address": "24050 SW Scholls Ferry Rd",
+            "city": "Hillsboro",
+            "state": "OR",
+            "zip": "97123-9335",
+            "phone1": "503-628-1772",
+            "website": "www.schollschurch.com",
+            "email": "office@schollschurch.com"
+        },
+        {
+            "title": "Westside Christian High School",
+            "care_of": "(Contact: Steve Pringle)",
+            "street_address": "4565 Carman Drive",
+            "city": "Lake Oswego",
+            "state": "OR",
+            "zip": "97035",
+            "phone1": "(503) 697-4711 x 311",
+            "website": "www.wchsonline.org",
+            "other1": "www.westsideoutside.org"
+        },
+        {
+            "title": "Bethel Baptist Church",
+            "street_address": "325 NW Baker Creek RD",
+            "city": "McMinnville",
+            "state": "OR",
+            "zip": "97128-2019",
+            "phone1": "(503) 434-5541",
+            "website": "http://bethelmac.org"
+        },
+        {
+            "title": "Molalla Christian Church",
+            "street_address": "223 E. 3rd St.",
+            "po_box": "PO Box 407",
+            "city": "Molalla",
+            "state": "OR",
+            "zip": "97038",
+            "phone1": "(503) 829-2901",
+            "website": "www.molallachristianchurch.com"
+        },
+        {
+            "title": "Cornerstone Books",
+            "street_address": "110 Monmouth Ave N. #101",
+            "city": "Monmouth",
+            "state": "OR",
+            "zip": "97361",
+            "phone1": "(503) 837-0925"
+        },
+        {
+            "title": "Trinity Lutheran Church",
+            "street_address": "15534 E. Marquam Rd.",
+            "city": "Mt. Angel",
+            "state": "OR",
+            "zip": "97362",
+            "phone1": "503-634-2437",
+            "website": "www.trinitymtangel.org"
+        },
+        {
+            "title": "Chapters Books",
+            "street_address": "701 E. First Street",
+            "city": "Newberg",
+            "state": "OR",
+            "zip": "97132",
+            "phone1": "(503) 554-0206"
+        },
+        {
+            "title": "West Chehalem Friends Church",
+            "street_address": "16700 NE North Valley RD",
+            "city": "Newberg",
+            "state": "OR",
+            "zip": "97132-6526",
+            "phone1": "(503) 538-5903",
+            "other1": "Hours Mon-Fri 9:00 - 1:00"
+        },
+        {
+            "title": "River Street Church of God",
+            "street_address": "715. River Street",
+            "city": "Newberg",
+            "state": "OR",
+            "zip": "97132",
+            "phone1": "(503) 538-4117",
+            "other1": "Hours: Tues-Fri 9:00-12 Noon",
+            "other2": "Call for delivery arrangements"
+        },
+        {
+            "title": "Hauser Community Church",
+            "street_address": "69411 Wildwood Road",
+            "city": "North Bend",
+            "state": "OR",
+            "zip": "97459",
+            "phone1": "(541) 756-2591",
+            "email": "pray@hauserchurch.org",
+            "website": "www.hauserchurch.org"
+        },
+        {
+            "title": "North Plains Christian Church",
+            "street_address": "31231 NW Commercial St.",
+            "city": "North Plains",
+            "state": "OR",
+            "zip": "97133",
+            "phone1": "(503) 647-2208",
+            "website": "www.northplainschristianchurch.org",
+            "email": "npcc@millenicom.com"
+        },
+        {
+            "title": "Blessing Christian Resource Center",
+            "street_address": "10209 S.E. Division St.",
+            "city": "Portland",
+            "state": "OR",
+            "zip": "97266",
+            "phone1": "(503) 256-8000"
+        },
+        {
+            "title": "Central Bible Church",
+            "street_address": "8815 NE Glisan Street",
+            "city": "Portland",
+            "state": "OR",
+            "zip": "97220",
+            "phone1": "(503) 252-1424",
+            "website": "www.CentralBible.net"
+        },
+        {
+            "title": "Woodstock Bible Church",
+            "street_address": "5101 SE Mitchell Street",
+            "city": "Portland",
+            "state": "OR",
+            "zip": "97206",
+            "phone1": "(503) 771-2025",
+            "other1": "Call before deliveries"
+        },
+        {
+            "title": "Prineville Christian Church",
+            "street_address": "1685 SE Lynn Blvd.",
+            "city": "Prineville",
+            "state": "OR",
+            "zip": "97754",
+            "phone1": "(541) 447-5649"
+        },
+        {
+            "title": "First Presbyterian Church",
+            "street_address": "823 SE Lane Ave",
+            "city": "Roseburg",
+            "state": "OR",
+            "zip": "97470",
+            "phone1": "(541) 673-5559",
+            "website": "www.fpcrose.org"
+        },
+        {
+            "title": "Salem Free Methodist Church",
+            "street_address": "4455 Silverton Road NE",
+            "city": "Salem",
+            "state": "OR",
+            "zip": "97305",
+            "phone1": "(503) 581-3633"
+        },
+        {
+            "title": "ABC Day Care & Pre School",
+            "street_address": "942 W. Main St",
+            "city": "Sheridan",
+            "state": "OR",
+            "zip": "97378",
+            "phone1": "(503) 843-2967"
+        },
+        {
+            "title": "Netarts Friends Church",
+            "street_address": "4685 Alder Cove Rd W",
+            "city": "Tillamook",
+            "state": "OR",
+            "zip": "97141-9355",
+            "phone1": "(503) 842-8375"
+        },
+        {
+            "title": "Cherry Grove Friends Church",
+            "street_address": "91 NE 219th Street",
+            "po_box": "PO Box 1300",
+            "city": "Battle Ground",
+            "state": "WA",
+            "zip": "98604",
+            "phone1": "(360) 687-3159"
+        },
+        {
+            "title": "Evergreen Prison Ministry",
+            "care_of": "C/O Highline Christian Church",
+            "street_address": "14859 - 1st Av. S.",
+            "city": "Burien",
+            "state": "WA",
+            "zip": "98168",
+            "phone1": "(206) 295-6848",
+            "other1": "Contact: Janita Lagasca"
+        },
+        {
+            "title": "Camas Church of the Nazarene",
+            "street_address": "2204 NE Birch Street",
+            "city": "Camas",
+            "state": "WA",
+            "zip": "98607",
+            "phone1": "(360) 834-3433",
+            "website": "www.camasnazarene.org",
+            "other1": "Tues - Fri 9am-2pm"
+        },
+        {
+            "title": "Bethel Church",
+            "street_address": "132 Kirkland Rd.",
+            "city": "Chehalis",
+            "state": "WA",
+            "zip": "98532",
+            "phone1": "(360) 748 0119"
+        },
+        {
+            "title": "Walking With Jesus Ministries WA",
+            "care_of": "c/o Camille Scholz",
+            "street_address": "2853 SW 340th Place",
+            "city": "Federal Way",
+            "state": "WA",
+            "zip": "98023",
+            "phone1": "(949) 922-5125"
+        },
+        {
+            "title": "June Austin",
+            "street_address": "12 Balfour Valley Dr.",
+            "city": "Maple Falls",
+            "state": "WA",
+            "zip": "98266",
+            "phone1": "(360) 599-2989",
+            "email": "bibledistribution@comcast.net",
+            "other1": "Call first."
+        },
+        {
+            "title": "Mr. Gilbert Lafrance",
+            "street_address": "7823 Huetter Ct SW",
+            "city": "Olympia",
+            "state": "WA",
+            "zip": "98152",
+            "phone1": "(360) 489-5160 (cell)",
+            "email": "falafrance@outlook.com"
+        },
+        {
+            "title": "Peninsula Evangelical Friends Church",
+            "street_address": "1291 N. Barr Rd.",
+            "city": "Port Angeles",
+            "state": "WA",
+            "zip": "98362",
+            "phone1": "(360) 452-9105",
+            "other1": "Old Olympic Hwy at corner of N. Barr Rd.",
+            "website": "www.pefcpa.com"
+        },
+        {
+            "title": "Kristina Pasquan",
+            "street_address": "13210 Golden Given Rd E",
+            "city": "Tacoma",
+            "state": "WA",
+            "zip": "98445",
+            "phone1": "(253) 224-9005",
+            "email": "kristinascrittercare@yahoo.com"
+        },
+        {
+            "title": "A Message of Hope / The Bible Project",
+            "street_address": "2310 104th St Ct S, #3-C",
+            "city": "Lakewood",
+            "state": "WA",
+            "zip": "98499",
+            "phone1": "(253) 279-4245",
+            "other1": "Open by appointment",
+            "other2": "Address mail to: PO Box 65383, University Place, WA 98464",
+            "email": "jane_milhans@yahoo.com",
+            "website": "www.amohthebibleproject.com"
+        }
+    ]
+}
