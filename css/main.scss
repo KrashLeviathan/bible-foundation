@@ -262,7 +262,6 @@ img {
                 background-color: #FFF;
             }
             &:hover {
-                color: #FFF;
                 background-color: $alternate-blue;
             }
         }
@@ -286,6 +285,31 @@ img {
     font-size: small;
     color: $subdued-text;
     text-align: center;
+}
+
+#state-list {
+    color: #c5c5c5;
+}
+
+.location-address {
+    margin: 1.5em 2.3em;
+}
+
+.get-involved {
+    margin: 4em auto;
+    text-align: center;
+    a {
+        margin: 0 0.5em;
+        color: #ffffff;
+        border: 1px #000 solid;
+        padding: 0.5em;
+        @include border-radius(0.5em);
+        background-color: $secondary-blue;
+        text-decoration: none;
+        &:hover {
+            background-color: $alternate-blue;
+        }
+    }
 }
 
 .large-title {

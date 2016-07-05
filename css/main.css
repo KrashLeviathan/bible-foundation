@@ -217,7 +217,6 @@ img {
         border-bottom: 1px #FFF solid;
         background-color: #FFF; }
       #navigation li a:hover {
-        color: #FFF;
         background-color: #66d1ff; }
 
 .widemargins {
@@ -235,6 +234,29 @@ img {
   font-size: small;
   color: #777777;
   text-align: center; }
+
+#state-list {
+  color: #c5c5c5; }
+
+.location-address {
+  margin: 1.5em 2.3em; }
+
+.get-involved {
+  margin: 4em auto;
+  text-align: center; }
+  .get-involved a {
+    margin: 0 0.5em;
+    color: #ffffff;
+    border: 1px #000 solid;
+    padding: 0.5em;
+    -webkit-border-radius: 0.5em;
+    -moz-border-radius: 0.5em;
+    -ms-border-radius: 0.5em;
+    border-radius: 0.5em;
+    background-color: #0091d0;
+    text-decoration: none; }
+    .get-involved a:hover {
+      background-color: #66d1ff; }
 
 .large-title {
   font-size: 2em;
