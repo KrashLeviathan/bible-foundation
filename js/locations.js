@@ -6,7 +6,20 @@ var stateTextArray, locationTextArray;
 // self executing function loads locations from locations.json
 (function () {
     loadJSON();
+    document.getElementById("back-to-top").onclick = function() {
+        window.scrollTo(0,0);
+    }
 })();
+
+window.onscroll = function() {backToTop()};
+
+function backToTop() {
+    if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+        document.getElementById("back-to-top").className = "button button-small clear-visible";
+    } else {
+        document.getElementById("back-to-top").className = "button button-small clear-hidden";
+    }
+}
 
 function loadJSON() {
     var xmlhttp = new XMLHttpRequest();
@@ -31,7 +44,7 @@ function loadJSON() {
 
 function generateHtmlFromJSON(data) {
     json = JSON.parse(data);
-    locations = json.locations.sort(compareState);
+    locations = json.locations.sort(compareLocations);
     stateMap = json.catalog_info.state_map;
     var stateList = getSortedKeyList(stateMap);
     var canadaStateList = json.catalog_info.canada_state_list.sort();
@@ -61,10 +74,10 @@ function handleStates(stateList, isCanadianList) {
                 if (isCanadianList) {
                     var stateId = "canada-" + state;
                     stateTextArray.push("<a href='#" + stateId + "'>" + state + "</a>");
-                    locationTextArray.push("<h2 id='" + stateId + "'>" + state + ", Canada</h2>");
+                    locationTextArray.push("<h3 id='" + stateId + "' class='state-header'>" + state + ", Canada</h3>");
                 } else {
                     stateTextArray.push("<a href='#" + state + "'>" + state + "</a>");
-                    locationTextArray.push("<h2 id='" + state + "'>" + stateMap[state] + " (" + state + ")</h2>");
+                    locationTextArray.push("<h3 id='" + state + "' class='state-header'>" + stateMap[state] + " (" + state + ")</h3>");
                 }
                 addLocation();
                 stateFound = true;
@@ -107,6 +120,15 @@ function addToText(item, index) {
             case "zip":
                 locationTextArray.push(loc.zip + "<br>");
                 break;
+            case "phone1":
+                locationTextArray.push("Phone: " + loc.phone1 + "<br>");
+                break;
+            case "phone2":
+                locationTextArray.push("Phone: " + loc.phone2 + "<br>");
+                break;
+            case "fax":
+                locationTextArray.push("Fax: " + loc.fax + "<br>");
+                break;
             case "website":
                 locationTextArray.push("<a href='http://" + loc.website + "' target='_blank'>" + loc.website + "</a><br>");
                 break;
@@ -119,17 +141,26 @@ function addToText(item, index) {
     }
 }
 
-function compareState(a, b) {
+function compareLocations(a, b) {
+    // Sort first by country
     if (!a.country && b.country) {
         return -1;
     }
     if (a.country && !b.country) {
         return 1;
     }
+    // Then by state
     if (a.state < b.state) {
         return -1;
     }
     if (a.state > b.state) {
+        return 1;
+    }
+    // Then by title
+    if (a.title < b.title) {
+        return -1;
+    }
+    if (a.title > b.title) {
         return 1;
     }
     return 0;

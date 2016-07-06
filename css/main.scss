@@ -68,6 +68,13 @@ $alternate-blue: #66d1ff;
     border-radius: $radius;
 }
 
+@mixin transition($args) {
+    -webkit-transition: $args;
+    -moz-transition: $args;
+    -o-transition: $args;
+    transition: $args;
+}
+
 body {
     font-family: 'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif;
 }
@@ -87,7 +94,7 @@ h2 {
     font-weight: 700;
     color: #FFF;
     font-size: 1.2em;
-    margin-bottom: 1em;
+    margin: 4em 0 2em;
     clear: both;
     white-space: nowrap;
     padding: 1px 2em 2px;
@@ -104,11 +111,13 @@ h2 {
 }
 
 h3 {
+    color: $primary-blue;
     font-size: 1.2em;
     font-weight: 700;
     clear: left;
-    margin: 1em 0 0.5em;
-    padding: 1px 80px 2px;
+    margin: 2em 0 0.5em;
+    border-bottom: 1px #000 solid;
+    padding: 1px 2em 2px;
 }
 
 h4 {
@@ -250,6 +259,7 @@ img {
             bottom: -1px;
             white-space: nowrap;
             background-color: $secondary-blue;
+            @include transition(background-color 200ms);
             text-align: center;
             text-decoration: none;
             z-index: 100;
@@ -273,6 +283,10 @@ img {
     width: 50em;
 }
 
+.inset-paragraphs p {
+    margin-left: 2.3em;
+}
+
 #content {
     font-size: 1em;
     padding: 10px 10px 1em;
@@ -291,6 +305,22 @@ img {
     color: #c5c5c5;
 }
 
+#back-to-top {
+    position: fixed;
+    right: 2em;
+    bottom: 2em;
+    @include transition(opacity 0.5s);
+    @include transition(background-color 200ms);
+}
+
+.clear-visible {
+    opacity: 1;
+}
+
+.clear-hidden {
+    opacity: 0;
+}
+
 .location-address {
     margin: 1.5em 2.3em;
 }
@@ -298,17 +328,25 @@ img {
 .get-involved {
     margin: 4em auto;
     text-align: center;
-    a {
-        margin: 0 0.5em;
-        color: #ffffff;
-        border: 1px #000 solid;
-        padding: 0.5em;
-        @include border-radius(0.5em);
-        background-color: $secondary-blue;
-        text-decoration: none;
-        &:hover {
-            background-color: $alternate-blue;
-        }
+    font-weight: bold;
+}
+
+a.button {
+    margin: 0 0.5em;
+    color: #ffffff;
+    border: 1px #000 solid;
+    padding: 0.5em;
+    @include border-radius(0.5em);
+    background-color: $secondary-blue;
+    @include transition(background-color 200ms);
+    text-decoration: none;
+    &:hover {
+        background-color: $alternate-blue;
+    }
+    &.button-small {
+        font-size: small;
+        padding: 0.2em 0.3em;
+        @include border-radius(0.3em);
     }
 }
 
@@ -343,6 +381,11 @@ img {
     clear: left;
     margin-right: 10px;
     margin-bottom: 10px;
+}
+
+.center-aligned {
+    text-align: center;
+    clear: both;
 }
 
 .quote {
