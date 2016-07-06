@@ -25,7 +25,7 @@
           <a href='../../contact.html'>Contact</a>
         </li>
         <li>
-          <a class='here' href='../../news.html'>News</a>
+          <a class='here' href='../../blog.html'>Blog</a>
         </li>
         <li>
           <a href='../../resources.html'>Resources</a>
@@ -82,12 +82,15 @@
         </blockquote>
       </div>
       <div style='clear: both; visibility: hidden'></div>
-    </div>
+    </div><a id="back-to-top" class="button button-small hidden" href="#">Back to Top</a>
     <div id='footer'>
       <p><a href="../../index.html">Bible Foundation</a><br>
       PO Box 908, Newberg, Oregon 97132<br>
       (503) 538-4897 | <a href="mailto:bf@bf.org">bf@bf.org</a></p>
     </div>
   </div>
+  <script>
+  window.onscroll = function() {backToTop()}; function backToTop() { if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) { document.getElementById("back-to-top").className = "button button-small clear-visible"; } else { document.getElementById("back-to-top").className = "button button-small clear-hidden"; } } 
+  </script>
 </body>
 </html>

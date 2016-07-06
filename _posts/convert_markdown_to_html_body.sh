@@ -14,16 +14,25 @@ TDIR="$CDIR/../posts"
 HTMLOPEN=`cat post-begin.html`
 HTMLCLOSE=`cat post-end.html`
 
+# Start the main blog page
+BLOGFILE="$CDIR/../blog.html"
+echo $(cat blog-page-begin.html) > ${BLOGFILE}
+
 # Iterate through the directories recursively
 for i in $(ls -R | grep :); do
     DIR=${i%:}                    # Strip ':'
     echo "cd $DIR"
     cd ${DIR}
+    # Add the blog section title to the blog page
+    BLOGSECTION=$(head -n 1 "./info.txt")
+    BLOGSECTION=${BLOGSECTION: 7}
+    echo "<h2>$BLOGSECTION</h2>" >> ${BLOGFILE}
     # Make an identical child folder in the target directory
     mkdir "$TDIR/$DIR"
     # Iterate through the markdown (.md) files in the directory
     for FILENAME in ./*.md; do
-        TARGETFILE="$TDIR/$DIR/$(basename "$FILENAME" .md).html"
+        BASENAME=$(basename "$FILENAME" .md)
+        TARGETFILE="$TDIR/$DIR/$BASENAME.html"
         echo "    Converting $FILENAME"
         # Add the beginning parts of the html
         echo ${HTMLOPEN} > ${TARGETFILE}
@@ -33,6 +42,17 @@ for i in $(ls -R | grep :); do
         echo ${HTMLCLOSE} >> ${TARGETFILE}
         # Tidy up the file (make it formatted pretty)
         tidy -i -m -q -w 120 -ashtml -utf8 "$TARGETFILE"
+        # Update the blog page
+        FIRSTLINE=$(head -n 1 ${FILENAME}) # First line of the markdown is the title
+        TITLE=${FIRSTLINE:2}               # Strip the hash character off the front
+        YEAR=${BASENAME:0:4}
+        MONTH=${BASENAME:5:2}
+        DAY=${BASENAME:8:2}
+        echo "<p><a href='posts/$DIR/$(basename "$FILENAME" .md).html'>$TITLE</a><span class='post-date'>$MONTH.$DAY.$YEAR</span></p>" >> ${BLOGFILE}
     done
     cd $CDIR
 done
+
+# Close the main blog page and tidy it up
+echo $(cat blog-page-end.html) >> ${BLOGFILE}
+tidy -i -m -q -w 120 -ashtml -utf8 "$BLOGFILE"

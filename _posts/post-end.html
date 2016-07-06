@@ -1,6 +1,7 @@
         </div>
         <div style='clear: both; visibility: hidden'></div>
     </div>
+        <a id="back-to-top" class="button button-small hidden" href="#">Back to Top</a>
     <div id='footer'>
         <p>
             <a href="../../index.html">Bible Foundation</a><br>
@@ -9,5 +10,16 @@
         </p>
     </div>
 </div>
+        <script>
+            window.onscroll = function() {backToTop()};
+
+            function backToTop() {
+                if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+                    document.getElementById("back-to-top").className = "button button-small clear-visible";
+                } else {
+                    document.getElementById("back-to-top").className = "button button-small clear-hidden";
+                }
+            }
+        </script>
 </body>
 </html>
