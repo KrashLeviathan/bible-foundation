@@ -39,27 +39,27 @@ query from Japan seeking a source for Spanish Bibles by referring to
 the local United Bible Society office. 
 
 
-# From the mail bag: 
+## From the mail bag: 
 
-## GHANA
+### GHANA
 
 > "I read 4 scriptures each night and have now get to know God 
 > better through prayers and studying this scriptures. What wondered me 
 > is that I don't think of anything apart from God." 
 
-## LIBYA
+### LIBYA
 
 > "I am Muslim ... send me your message about Christian 
 > religion." 
 
-## GHANA
+### GHANA
 
 > "There are hundreds of prisoners today preaching and all 
 > their powers comes from the Bible Foundation tracts and the Bibles sent 
 > to us. There are terrible criminals here, but today through the God of 
 > America and the God of Bible Foundation they have reformed." 
 
-## SRI LANKA
+### SRI LANKA
 
 > "These Bibles were prayerfully given out to 6 new "Born 
 > Again" poor believers who could never really afford to purchase a 
@@ -67,13 +67,13 @@ the local United Bible Society office.
 > book shops are truly prohibited, and as such the gift of these Bibles 
 > really resulted in great thanksgiving to God." 
 
-## ETHIOPIA
+### ETHIOPIA
 
 > "Even if you are afar from Ethiopia you are doing an 
 > amazing service towards the Lord in participating in the Lord's works 
 > here in our part of the world. I do really appreciate and thank God.". 
 
-## MALAWI
+### MALAWI
 
 > "Many have been blessed with those Bibles in areas where we 
 > distributed those Bibles free. Praise God! He is so wonderful to listen 
@@ -81,7 +81,7 @@ the local United Bible Society office.
 > people committed their lives to Jesus Christ as the result of reading 
 > the literature you sent us." 
 
-## SOUTH AFRICA
+### SOUTH AFRICA
 
 > "I just want to extend my sincere gratitude of thanks 
 > for all the Bibles that you are sending us. These Bibles have reached 

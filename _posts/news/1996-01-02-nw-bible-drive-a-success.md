@@ -23,30 +23,30 @@ $2,500.00 was donated for the purchase of another 2,000+ one dollar
 Bibles and another $1,000.00 was donated which can be used for postage. 
 Rejoice with us in all that the Lord is doing. 
 
-# From the mail bag: 
+## From the mail bag: 
 
-## Missouri
+### Missouri
 
 > A Sunday school class of 7 children collected 100 Bibles 
 > and mailed them and the teacher wrote: "Thank you so much for the 
 > opportunity to provide God's Word to other countries." 
 
-## INDIA
+### INDIA
 
 > "I am overwhelmed by your response in sending me the Bible." 
 
-## NIGERIA
+### NIGERIA
 
 > "May God bless you for your effort in sending gospel 
 > materials to Nigeria in Jesus' name." 
 
-## CAMEROON
+### CAMEROON
 
 > "I am a young preacher of age 26 years. For long time, I 
 > was searching where my vision can be revolutionalised. Thank God who 
 > have lead me into your ministry." 
 
-## UGANDA
+### UGANDA
 
 > "Thanks for the Bible Foundation Ministry that the Lord has 
 > entrusted into your leadership. Thanks for the vision you have at least 
@@ -59,7 +59,7 @@ Rejoice with us in all that the Lord is doing.
 > people in the camps. Kindly we beg more used Bibles. People very much 
 > like the Word of God (Bibles)." 
 
-## GHANA
+### GHANA
 
 > "Thank you for the five (5) Holy Bibles that arrived at our 
 > end. ...Ordained murder (executioner) is listening to Gospel daily and 
@@ -67,13 +67,13 @@ Rejoice with us in all that the Lord is doing.
 > Bible. School children are eager to possess New Testaments for their 
 > daily study. Really there is a great need. Help us to populate heaven." 
 
-## GHANA
+### GHANA
 
 > "Fourth week ago I have fast for 3 days and I ask God to 
 > give me a Holy Bible, so the moment I came across your address I 
 > thanked God so much." 
 
-## GHANA
+### GHANA
 
 > "Firstly sir, I will like to thank you for your tract you 
 > publish entitled "HIM GOD RAISED UP" which was gave to me by my 

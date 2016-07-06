@@ -42,9 +42,9 @@ about 100 a month. He says: "I have never enjoyed working on something
 more in my life." 
 
 
-# From the mail bag: 
+## From the mail bag: 
 
-## CAMEROON
+### CAMEROON
 
 > "I'm a missionary evangelist planting churches ... A sub 
 > Division of about 50,000 inhabitants without a single bookshop where 
@@ -56,7 +56,7 @@ more in my life."
 > assist us here with literature even old Bibles of any quantity we shall 
 > be very grateful." 
 
-## GHANA
+### GHANA
 
 > "I have been going out with some bad boys when you send this 
 > tracts for reading, so when I received your reply with this tracts. I 
@@ -67,7 +67,7 @@ more in my life."
 > the tracts, so I want you to send me Bible to be reading to know the 
 > ways of God! I thank you very much for taking me into good life." 
 
-## MALAWI
+### MALAWI
 
 > "Friend in Christ, I thank the Lord for your materials you 
 > send me last year. And they have done a lot to me. Many of unsaved 
@@ -75,7 +75,7 @@ more in my life."
 > Tracts. Once more again, would you please kindly send me some of the 
 > Holy Bibles and Tracts and some spiritual books." 
 
-## CAMEROON
+### CAMEROON
 
 > Agnes wrote they go into the interiors to witness and 
 > hold crusades. They travel to the villages on foot and by canoe and 

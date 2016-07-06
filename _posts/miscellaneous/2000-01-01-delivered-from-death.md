@@ -55,4 +55,4 @@ The Lord continues to expand the large network of individuals,
 organizations, churches and multinational ministries, and Scripture 
 continually goes to hungry hearts.
 
-- Jerry Kingery
+\- Jerry Kingery

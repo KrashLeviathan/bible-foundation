@@ -20,35 +20,35 @@ small group home meetings.
 **Please pray** that the Lord will provide the volunteers and means to 
 distribute many more tons of Scripture around the world. 
 
-# From the mail bag: 
+## From the mail bag: 
 
-## MYANMAR
+### MYANMAR
 
 > " Thank you very much for your kindness and love toward 
 > us. May God bless you and all the donors more abundantly." There 
 
-## GHANA
+### GHANA
 
 > "I am by this letter expressing my profound gratitude to you 
 > on the Bibles sent to me." 
 
-## ETHIOPIA
+### ETHIOPIA
 
 > "I thank you so much for your continuous support toward 
 > the work of the Lord here in the Ethipioan." 
 
-## GHANA
+### GHANA
 
 > "I am a Muslem and am writing you this letter...I want to 
 > get a Bible." 
 
-## MALAWI
+### MALAWI
 
 > " Thank you very much for the Bibles mailed to us. They are 
 > being used by preachers for the harvest of lost souls. May God richly 
 > reward you for the great work you are undertaking." 
 
-## GHANA
+### GHANA
 
 > A young man wrote: "My conversion brought a big conflict 
 > between me and my father. The whole family were against me, branded me 

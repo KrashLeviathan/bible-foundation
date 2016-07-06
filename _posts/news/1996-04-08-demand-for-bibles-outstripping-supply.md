@@ -39,9 +39,9 @@ the Scripture portions and that he will raise up more help to mail
 thousands of Bibles to begging hearts overseas. Rejoice with us in all 
 that the Lord is doing. 
 
-# From the mail bag: 
+## From the mail bag: 
 
-## Akwa, NIGERIA
+### Akwa, NIGERIA
 
 > "In the evening of 3rd Nov 1995, about 8:30 p.m. 
 > some of our students were in the classroom reading, others in the 
@@ -53,7 +53,7 @@ that the Lord is doing.
 > and cry out to God as we saw everything devoured by the fiery flames 
 > which leaped high into the air." 
 
-## Uyo, NIGERIA
+### Uyo, NIGERIA
 
 > "There is a great and serious evangelistic works 
 > among Muslim in that Muslim hierarchy has organized an army of Muslim 

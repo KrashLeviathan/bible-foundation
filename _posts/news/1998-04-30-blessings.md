@@ -22,9 +22,9 @@ meetings just to mention few." Bible Foundation relies heavily on
 donated storage and freight services. Please pray with us about 
 transportation needs in Texas. 
 
-# From the mail bag: 
+## From the mail bag: 
 
-## GHANA
+### GHANA
 
 > "Please, the reason why I am writing to you is that I am 
 > seamstress and I have opened my shop on 14th November 1997. All of my 
@@ -33,25 +33,25 @@ transportation needs in Texas.
 > finished reading, I took God as my personal saviour. That is why I am 
 > still living." 
 
-## ZIMBABWE
+### ZIMBABWE
 
 > "Devaluation of Zimbabwen currency is making a price of 
 > Bibles almost beond the reach of people." 
 
-## MALAWI
+### MALAWI
 
 > "What a wonderful blessing it is to see many friends turned 
 > from darkness to light, accepting Jesus as their only saviour and lord. 
 > The scriptural leaflets, books, and Bibles are weapons and they are 
 > putting out the burning arrows shot by the devil." 
 
-## ROMANIA
+### ROMANIA
 
 > "I am learning English. The Bible would be a good way. 
 > Because, here in Romania, it is not possible to buy a good one, I am 
 > asking you for one." 
 
-## GHANA
+### GHANA
 
 > "One time I attacked someone and collected his gold and 
 > later destroyed him. I was arrested... now I am in jail for 36 years. 
@@ -59,7 +59,7 @@ transportation needs in Texas.
 > blockmaster, now I know that there is a God which I have to serve and 
 > now my life is changed." 
 
-## MALAWI
+### MALAWI
 
 > "Thank you very much for the work of love sending Bibles, 
 > New Testaments and gospel tracts for free distribution to the needy. 
@@ -69,18 +69,18 @@ transportation needs in Texas.
 > Our reports shows that 1,107 people have accepted Jesus Christ as the 
 > result of your literature. Would you also be with us this 1998?" 
 
-## UGANDA
+### UGANDA
 
 > "Thank you... Your ministry (Bible Foundation) is doing an 
 > excellent work. Keep on! There is great demand for Bibles here." 
 
-## ZAMBIA
+### ZAMBIA
 
 > "We send our love to you and to thank you most sincerely 
 > for the good work you are doing to mobilise God's own creation and 
 > plunder hell." 
 
-## TRINIDAD & TOBAGO
+### TRINIDAD & TOBAGO
 
 > "Thank you so much. Thoughtful, kind and caring 
 > are just a few words to describe you. People like you make life a 
@@ -89,7 +89,7 @@ transportation needs in Texas.
 > appreciation this brings today. ... There is a great need for Bibles. 
 > The shipment you sent to us went like hot bread from a bakery." 
 
-## GHANA
+### GHANA
 
 > "With gratitude to the Lord, our Saviour, I express my 
 > sincere thanks and appreciation for the way you have been regularly 
@@ -103,20 +103,20 @@ transportation needs in Texas.
 > not meet the number of the people it has serve a purpose. God richly 
 > bless you." 
 
-## TOGO
+### TOGO
 
 > "I have already share Bibles and some to unbelievers. Thank 
 > God that they are reading their Bible and believe to the word of God, 
 > and now they are participating to the work of God." 
 
-## MALAWI
+### MALAWI
 
 > "Would you kindly send me as many Bibles as you can. Not 
 > for the college but to the Christians who lost their properties with 
 > the flooding water which washed away their houses, herds, clothes, 
 > Bibles, hymns, etc." 
 
-## GHANA
+### GHANA
 
 > "I'm still distributing the tracts and the demand for it is 
 > still growing. The avenues cannot remain closed in Jesus mighty name. 
@@ -126,13 +126,13 @@ transportation needs in Texas.
 > to stop sending the Bibles and tracts as you are doing. It is really 
 > blessing people and advancing God's kingdom." 
 
-## ETHIOPIA
+### ETHIOPIA
 
 > "You see so many people need the English Bible and they 
 > are asking me. Even those who are not Christian will ask for the Bible, 
 > but I give priority for those born-again Christians." 
 
-## MALAWI
+### MALAWI
 
 > "This letter is to thank you for your Bibles and tracts, 
 > which you sent for us. We know your Bibles and tracts will help us as 

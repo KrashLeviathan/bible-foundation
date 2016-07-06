@@ -30,9 +30,9 @@ in Portland to dispose of and he let us have them. The flowers were
 shared amongst many of the volunteers and brought a beautiful and 
 colorful wintertime blessing that was greatly enjoyed. 
 
-# From the mail bag: 
+## From the mail bag: 
 
-## JAMAICA
+### JAMAICA
 
 > "I also hear of the wonderful and great work that you are doing 
 > from a relative of mine. ... Those tract that you have sent to her, 
@@ -40,7 +40,7 @@ colorful wintertime blessing that was greatly enjoyed.
 > she's been doing a great job, she's been passing out tracts and also 
 > the Bibles to those who don't have any." 
 
-## INDIA
+### INDIA
 
 > "Just recently a young Hindu who was a drug addict and discouraged 
 > with life, was on a railway bridge, about to jump over to train. His 
@@ -50,7 +50,7 @@ colorful wintertime blessing that was greatly enjoyed.
 > two hours and was saved. Now he is a missionary to his own people in 
 > Madras, South India. This was all through a Bible Foundation Bible." 
 
-## NIGERIA
+### NIGERIA
 
 > "Through my drug connections, I easily learned the business of drug 
 > distribution and eventually became a successful drug dealer in order to 
@@ -63,7 +63,7 @@ colorful wintertime blessing that was greatly enjoyed.
 > my lives are richer and fuller, more stable than ever before and 
 > peaceful through knowing Jesus as my personal saviour." 
 
-## MALAWI
+### MALAWI
 
 > "Bibles are very expensive so that many churches are using tracts 
 > instead of using Bibles."  

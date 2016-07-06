@@ -21,9 +21,9 @@ sending a blank email to [bibledrive@bf.org](mailto:bibledrive@bf.org).
 Publicity materials have been mailed to over 200 Chirstian 
 publications. 
 
-# From the mail bag: 
+## From the mail bag: 
 
-## GHANA
+### GHANA
 
 > "I have taken pain to read the 48 scripture selections you 
 > sent to me in at least 30 times. I have really be transformed by the 
@@ -33,20 +33,20 @@ publications.
 > away from sin. We are fully on the work so please do send me one 
 > complete Bible to help me in my evangelising work." 
 
-## REPUBLIC of BELARUS
+### REPUBLIC of BELARUS
 
 > "I wanted to let you know that I have received 
 > your shipment of Bibles that you have sent to my ministry. This is a 
 > great blessing and I thank you very much for them. … I will have 
 > opportunity to give the Bibles to public schools and universities." 
 
-## GHANA
+### GHANA
 
 > "I have read the scriptures and I ask God to give me wisdom 
 > as you said. ... I have seen that God has change my life, to become a 
 > good boy." 
 
-## NIGERIA
+### NIGERIA
 
 > "I thank God for the way He uses you to bless the nation 
 > both youth and adults through His word. … Our ministries is quite a big 
@@ -58,12 +58,12 @@ publications.
 > effectively as God desires. … Muslims are hearing the word of God 
 > eagerly." 
 
-## NIGERIA
+### NIGERIA
 
 > "God arrested over 1,200 Muslims to His kingdom and five 
 > local churches were established for the newly converted Muslims." 
 
-## NIGERIA
+### NIGERIA
 
 > "We are a Prison Ministries, serving the need of 10,000 
 > refugees living in camps and inmates of over 561 prisons around this 
@@ -83,7 +83,7 @@ publications.
 > disappointed or fail. Will you help us reach behind the bars with the 
 > love of Jesus now?" 
 
-## IVORY COAST
+### IVORY COAST
 
 > "Your idea of aiding the lost sheep to come in, is 
 > actually excellent, and hope that the Almighty God will reward you and 
@@ -91,7 +91,7 @@ publications.
 > uplift the school in our area and hope you will assist the school by 
 > sending more BIBLES." 
 
-## IVORY COAST
+### IVORY COAST
 
 > "I am a new convert and I would like to know the 
 > redemptive Word of God better. It is in that light that I, under the 
@@ -99,20 +99,20 @@ publications.
 > good times and bad to study the Word of God, which has already begun. 
 > For that I would like a Bible." 
 
-## NIGERIA
+### NIGERIA
 
 > "Since the number of people demanding for Holy Bible are 
 > so many, we find it difficult to give out to be used personally. We 
 > only place it on our reading Chapel for everybody to go in and read, 
 > because we don't have enough Bible." 
 
-## GHANA
+### GHANA
 
 > "I've been receiving the Bibles you are sending to me, but 
 > most wonderful part of it is the Bible is reaching the parishers and 
 > souls are won into the Kingdom of God." 
 
-## NIGERIA
+### NIGERIA
 
 > "I do not know how to thank or how the whole congregation 
 > could thank God for all the Bible's you send to us. I think that God 
@@ -120,7 +120,7 @@ publications.
 > offering to us cannot be coming from the corrupted flesh but they are 
 > the work of the Holy Spirit that is taking place in you for our joy." 
 
-## MALAWI
+### MALAWI
 
 > "I am deeply grateful for all you have done to help in my 
 > spiritual growth, so I am able to serve our God and help others. I 

@@ -29,16 +29,16 @@ thousands more need English Bibles. Remember, the more help, the more
 Scripture goes out. Please pray the Lord of the harvest will raise up 
 more folks to help. 
 
-# From the mail bag: 
+## From the mail bag: 
 
-## GHANA
+### GHANA
 
 > "I am the boy which you reply this week. I have pray to Lord 
 > and I think He has forgive me my sins...I have read all the scriptures 
 > that you send me and now I believe Jesus is my Saviour...now you have 
 > help me to known more about Jesus." 
 
-## GHANA
+### GHANA
 
 > "You ask me to read 48 scripture selections at least 100 
 > times and ask the Lord as I read them...God will reveal more about 
@@ -49,7 +49,7 @@ more folks to help.
 > doing...things which the Lord does not like. Thank you very much for 
 > your dedication." 
 
-## GHANA
+### GHANA
 
 > "I thank you for 48 scripture you gave me. You want me to 
 > know the words of God. I cannot tell all, but God gave me freedom to do 
@@ -57,7 +57,7 @@ more folks to help.
 > you again for 48 scripture you gave me to read, that thing help me to 
 > know the words of God." 
 
-## GHANA
+### GHANA
 
 > "To begin...my story: In fact we were very very bad boys in 
 > our area to the extent that we were readers of everybody's material, 
@@ -71,7 +71,7 @@ more folks to help.
 > for the good work you've done. But the sad news is, I have no Bible of 
 > my own. So please send me one." 
 
-## GHANA
+### GHANA
 
 > "Please, Sir, I have done what you told me and, Sir, I am 
 > seeing change in my life and I know God will bless you very very much 

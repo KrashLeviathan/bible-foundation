@@ -33,50 +33,50 @@ grow in the Lord.
 **Please pray** that the Lord of the harvest will continue to raise up 
 folks to help. 
 
-# From the mail bag: 
+## From the mail bag: 
 
-## KENYA
+### KENYA
 
 > "Many people we gave the tracts came after two or three days 
 > and wanted to receive Jesus as their personal saviour. Eighty people 
 > got saved in the first crusade." 
 
-## NIGERIA
+### NIGERIA
 
 > "I have read your tracts entitled 'God Is Our Refuge' and 
 > 'The Lord Be Magnified'. Thank you for these tracts which have been 
 > very helpful to me. I will be grateful if you send these tracts to me 
 > for distribution to the unreached citizens of this world." 
 
-## SENEGAL
+### SENEGAL
 
 > "God bless you all. Thank you again and again to you all 
 > who made it possible to send me "THE HOLY BIBLES". Thank you all." 
 
-## MALAYSIA
+### MALAYSIA
 
 > "I received the Bible on 27th December 96. God loved me 
 > too much. He opened my mind, eyes, heart to hear His word." 
 
-## LIBYA
+### LIBYA
 
 > "I was very happy when I got to know of your address from 
 > one of our scripture memory books." 
 
-## INDIA
+### INDIA
 
 > "I sent one large lettered English Bible to an old couple in 
 > a home. They are very very happy to receive it. She wrote to me that 
 > her husband was hugging the Bible to his breast. He feels this is the 
 > greatest treasure to him." 
 
-## UGANDA
+### UGANDA
 
 > "There is great demand for used Bibles here. Many believers 
 > have no Bibles in their hands, especially those in the rural areas. ... 
 > Therefore we beg you to continue sending us more used Bibles." 
 
-## An African prison officer
+### An African prison officer
 
 > "Many people have been reformed here 
 > through your anointed tracts that you send here. Kindly do well to send 

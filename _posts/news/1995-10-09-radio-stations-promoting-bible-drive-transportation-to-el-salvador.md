@@ -22,24 +22,24 @@ There is cause for great rejoicing:
   typing, bookkeeping and office help, as well as hundreds of folks in 
   the Northwest to assist the Bible drive.  
 
-# From the mail bag: 
+## From the mail bag: 
 
-## Philippines
+### Philippines
 
 > "We acknowledge the generous help of Bible Foundation. ... You are the 
 > answer of our prayers. ... Your ministry is a blessing to our nation." 
 
-## Kenya
+### Kenya
 
 > "You...have enabled me to open churches and win so many souls to Christ 
 > with the Bibles you send." 
 
-## Ukraine
+### Ukraine
 
 > "We were able to distribute the Bibles you sent to needy and grateful 
 > recipients." 
 
-## Ghana
+### Ghana
 
 > "I am a young man of 28 years and I have been in occultism for almost 
 > 14 years, until I met Jesus Christ who set me free. My life has being 
@@ -47,12 +47,12 @@ There is cause for great rejoicing:
 > Bible than to request you humbly in Jesus Christ name. I promise when I 
 > received shall put it into good uses." 
 
-## Malawi
+### Malawi
 
 > A refugee from Mozambique wrote there are 1,975 Christians in their 
 > church and they lack Bibles. 
 
-## Myanmar
+### Myanmar
 
 > "Many thanks for your gifts of Bibles which we just received. We are 
 > very grateful for your concern and love toward us in the name of our 

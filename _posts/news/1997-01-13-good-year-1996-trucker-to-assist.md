@@ -24,9 +24,9 @@ been moving into Europe and our Austrian connection established a
 contact in Ireland. Saint Louis, MO reported good success with the 
 Bible drive with more participation. 
 
-# From the mail bag: 
+## From the mail bag: 
 
-## SRI LANKA
+### SRI LANKA
 
 > "I write to you having had the blessed opportunity of 
 > reading just one tract published by you. I am a born again Christian 
@@ -40,26 +40,26 @@ Bible drive with more participation.
 > along with any other literature you could spare to help us win lost 
 > souls and strengthen new believers in their faith." 
 
-## MALAWI
+### MALAWI
 
 > "Your good work of love for this dying world is also known 
 > to us. Would you please send us 1,000 gospel tracts and 20 used Bibles 
 > to be freely distributed to those who have no any single copy of the 
 > Word of God to read at their own time at home and at church." 
 
-## IVORY COAST
+### IVORY COAST
 
 > " I am a young pastor who had just qualified for the 
 > pastoral work in la Cote d'Ivoire wants to get a Bibles, both French 
 > and English to do the work of God." 
 
-## NIGERIA
+### NIGERIA
 
 > " I, the Evangelist, that love to go to rural area and 
 > preach the gospel of our Lord and Saviour Jesus Christ. Sir, in this 
 > unction I request for more of your tracts." 
 
-## MALAWI
+### MALAWI
 
 > " Thank you very much for the Bibles you have sent for us. 
 > All of them had arrived safely at our Post Office and we have receive 
@@ -69,13 +69,13 @@ Bible drive with more participation.
 > born babies in the family of God that they may grow spiritually in 
 > Christ." 
 
-## INDIA
+### INDIA
 
 > " I praise our Lord Jesus Christ for the safe arrival of the 
 > Bibles, NT's and the leaflets containing scripture portions. I must 
 > thank you a lot for sending them again to me." 
 
-## Portland, OR
+### Portland, OR
 
 > " Thank you so much for the Bibles. They were just 
 > what we needed. They will bring great joy to the Center for our 

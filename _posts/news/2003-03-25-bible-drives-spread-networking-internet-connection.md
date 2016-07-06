@@ -44,15 +44,15 @@ and Bible portions. Much is being done but please pray the Lord will
 provide for much more to be done. 
 
 
-# From the mail bag 
+## From the mail bag 
 
-## ALGERIA
+### ALGERIA
 
 > “I have the great honor to contact you for the first time .At first i'm 
 > an algerian student .i want to know more information about Christianity 
 > .please send a copy of the Holy Bible in English” 
 
-## SRI LANKA
+### SRI LANKA
 
 > “I write to thank you with all of my heart for the gift box you sent, 
 > containing the used Bibles and the tracts, which I received very 
@@ -65,7 +65,7 @@ provide for much more to be done.
 > I will faithfully continue to pray for you and the Bible Foundation 
 > ministry.” 
 
-## GHANA
+### GHANA
 
 > "Thank you for sending me the parcel and because they were put to good 
 > use. Our church has more than doubled. On account of this I am taking 
@@ -79,7 +79,7 @@ provide for much more to be done.
 > have been won to Christ and presently are on fire for Christ since we 
 > received the parcel some two years ago." 
 
-## INDIA
+### INDIA
 
 > "I have been distributing the Bibles free in Schools, Hospitals and 
 > Market yards, Prison - cells and remote villages prayerfully. Thank you 
@@ -87,7 +87,7 @@ provide for much more to be done.
 > man. I cannot express my gratitude through these words." 
 
 
-# The cry for Bibles and portions is immense. 
+## The cry for Bibles and portions is immense. 
 
 Thousands of people around the nation and around the world harmonize 
 efforts and contributions to freely move God’s word. The value of every 

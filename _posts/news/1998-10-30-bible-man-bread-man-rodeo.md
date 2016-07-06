@@ -40,9 +40,9 @@ several tons of the Bread of Life. The Bibles and portions were
 brought to Newberg from the Midwest by a ministry God raised up to 
 help with the free and low cost transportation of Bibles.
 
-# From the mail bag:
+## From the mail bag:
 
-## NIGERIA:
+### NIGERIA:
 
 > "The Muslims hierarchy set fire on our Bible College and many others.
 > Our staff quarters and administration buildings were completely 
@@ -54,7 +54,7 @@ help with the free and low cost transportation of Bibles.
 > and help us with several copies of Thompson Chain reference Bibles,
 > Holy Bibles…"
 
-## TOGO:
+### TOGO:
 
 > "I read one of your tracts entitled "The King of Heaven" and I 
 > decide to write you. I am a lay preacher of the gospel of our Lord 
@@ -63,14 +63,14 @@ help with the free and low cost transportation of Bibles.
 > you can to enable me and my team to continue with the gospel. I 
 > want you also to send me some Bibles for me and my friends."
 
-## NIGERIA:
+### NIGERIA:
 
 > "This is to inform you that I came across some of your tracts, 
 > going through them, with the Lord of God, I become overwhelm. 
 > Further, I will be much delighted of other Holy books like Bible 
 > could be sent to me."
 
-## GHANA:
+### GHANA:
 
 > "When you told me to read the 48 scriptures carefully at about 
 > 30 times. At that time I was lazy, greedy, and was not good in 
@@ -82,7 +82,7 @@ help with the free and low cost transportation of Bibles.
 > God very much. My good friend thank you for advising me with 
 > the 48 scriptures."
 
-## SCOTLAND:
+### SCOTLAND:
 
 > "I am delighted at being able to find and access your website. - 
 > thanks very much for the service you provide I am in need of some 
@@ -91,7 +91,7 @@ help with the free and low cost transportation of Bibles.
 > cassettes, Booklets and correspondence courses to those who are 
 > interested."
 
-## NIGERIA:
+### NIGERIA:
 
 > "Christ deliver me from the kingdom of darkness and transform me 
 > to the kingdom of light. I and my family were Muslims and I was 
@@ -105,7 +105,7 @@ help with the free and low cost transportation of Bibles.
 > into committing heinous acts against Africa and the rest of the 
 > world."
 
-## GHANA:
+### GHANA:
 
 > "The reason why I am informing you this friendly letter is that 
 > since I stated reading the scripture that you gave to me I see 
@@ -114,7 +114,7 @@ help with the free and low cost transportation of Bibles.
 > has using his miracle in them. I have got wisdom since you gave 
 > me the scripture."
 
-## AUSTRALIA:
+### AUSTRALIA:
 
 > "We received the most great living word, profound and precious 
 > Holy Bible, and thank the Lord Jesus Christ that he answers our 
@@ -127,7 +127,7 @@ help with the free and low cost transportation of Bibles.
 > path to righteousness in serving our Lord and Saviour Jesus 
 > Christ."
 
-## SOUTH INDIA:
+### SOUTH INDIA:
 
 > "We will be ever grateful to you for regularly sending us your 
 > tracts and Bibles, which we have prayerfully distributed to the 
@@ -143,7 +143,7 @@ help with the free and low cost transportation of Bibles.
 > pray for the same. The new villages we are contacting are very 
 > responsive."
 
-## GHANA:
+### GHANA:
 
 > "I heard your information from a friend...one of our groups leader.
 > He gave me an envelope with some passages as a gift, which Bible 
