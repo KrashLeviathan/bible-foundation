@@ -287,6 +287,16 @@ img {
     margin-left: 2.3em;
 }
 
+.inset {
+    margin-left: 2.3em;
+}
+
+.emphasis {
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+}
+
 #content {
     font-size: 1em;
     padding: 10px 10px 1em;
@@ -565,5 +575,9 @@ blockquote {
     h2,
     h3 {
         page-break-after: avoid;
+    }
+
+    #header {
+        height: 8.5em;
     }
 }
