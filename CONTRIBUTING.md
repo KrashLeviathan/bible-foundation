@@ -51,6 +51,11 @@ directory.
 Make sure to open up the website locally and test out new changes to
 make sure everything looks as expected.
 
+## Adding HTML
+
+After writing any HTML, make sure to run `bash _tools/tidy_all_html.sh`
+from the root directory. This will clean up all html files to a
+standardized format.
 
 ## Low Bandwidth Guidelines
 

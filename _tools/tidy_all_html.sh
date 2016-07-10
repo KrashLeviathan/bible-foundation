@@ -11,6 +11,16 @@ RED='\033[0;31m'
 YEL='\033[1;33m'
 NC='\033[0m' # No Color
 
+# Handle html files in the root directory
+printf "${CDIR}\n"
+# Iterate through the html files in the directory
+for FILENAME in ./*.html; do
+    printf "    $FILENAME ${RED}\n" # Adding the red color format makes any messages from tidy red
+    # Tidy up the file (make it formatted pretty)
+    tidy -i -m -q -w 120 -ashtml -utf8 "$FILENAME"
+    printf "$NC" # Set text back to no color
+done
+
 # Iterate through the directories recursively
 for i in $(ls -R | grep :); do
     DIR=${i%:}                    # Strip ':'
@@ -28,7 +38,7 @@ for i in $(ls -R | grep :); do
     COUNT=`ls -1 *.html 2>/dev/null | wc -l`
     if [ $COUNT != 0 ]
     then
-        printf "$DIR"
+        printf "${DIR}\n"
         # Iterate through the html files in the directory
         for FILENAME in ./*.html; do
             printf "    $FILENAME ${RED}\n"
@@ -40,3 +50,5 @@ for i in $(ls -R | grep :); do
 
     cd $CDIR
 done
+
+printf "${YEL}Done.${NC}\n"
