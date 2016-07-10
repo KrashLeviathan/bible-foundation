@@ -24,16 +24,13 @@ haven't actually tested it on Windows myself.*
 
 #### Other Bash Utils Needed
 
-You can check if you have these by running `which <program_name>`
-
 - **tidy**: Used to tidy up the html files after creation.
 - **markdown (a python library)**: Used to do the markdown-to-html
   conversion. [Installation instructions can be found here]
   (https://pythonhosted.org/Markdown/install.html). Python can be
   [downloaded here](https://www.python.org/downloads/) or installed
   with a package manager program such as brew; however, it comes
-  standard, so you likely already have it installed (type `which python`
-  to check).
+  standard, so you likely already have it installed.
 
 ### Writing a Blog Post
 
