@@ -51,15 +51,23 @@
     <div id='content'>
         <div class="widemargins inset-paragraphs">
             <h1>Resources</h1>
-            <p>Stuff here...</p>
+            <ul class="dictionary-list">
+                <li><a href="resources/postmaster-letter.html" target="_blank">Letter to the Postmaster</a><p>Provides
+                information to the Postmaster to allow you to mail packages at the Library rate.</p></li>
+                <li><a href="resources/bible-societies.html">Bible Societies</a><p>A repository of Bible Society websites.</p></li>
+            </ul>
         </div>
         <div style='clear: both; visibility: hidden'></div>
     </div>
-    <div id='footer'>
-        <p><a href="#">Bible Foundation</a><br>
+</div><a id="back-to-top" class="button button-small hidden" href="#">Back to Top</a>
+<div id='footer'>
+        <p><a href="index.html">Bible Foundation</a><br>
             PO Box 908, Newberg, Oregon 97132<br>
             (503) 538-4897 | <a href="mailto:bf@bf.org">bf@bf.org</a></p>
     </div>
+    <script>
+        window.onscroll = function() {backToTop()}; function backToTop() { if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) { document.getElementById("back-to-top").className = "button button-small clear-visible"; } else { document.getElementById("back-to-top").className = "button button-small clear-hidden"; } }
+    </script>
 </div>
 </body>
 </html>

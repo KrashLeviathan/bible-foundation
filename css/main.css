@@ -288,6 +288,15 @@ img {
   float: right;
   font-style: italic; }
 
+.dictionary-list {
+  margin-left: 0;
+  list-style: none; }
+  .dictionary-list p {
+    margin-left: 4em; }
+  .dictionary-list li:before {
+    content: '\271E';
+    margin: 0 1em; }
+
 a.button {
   margin: 0 0.5em;
   color: #ffffff;
