@@ -354,6 +354,13 @@ img {
     p {
         margin-left: 4em;
     }
+    span {
+        float: right;
+        text-align: right;
+        a {
+            margin-right: 4em;
+        }
+    }
     li:before {
         //content: '\271D';
         content: '\271E';
