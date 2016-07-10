@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jerry Kingery -- Founder of Bible Foundation -- bf@bf.org
+    Nathan Karasch -- Web Developer -- nathankarasch@gmail.com
 
 # THANKS
 
-    <name>
+    Aptivate's Web Design Guidelines for Low Bandwidth (http://www.aptivate.org/webguidelines/Home.html)
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    javascript, Modernizr
