@@ -57,6 +57,12 @@ After writing any HTML, make sure to run `bash _tools/tidy_all_html.sh`
 from the root directory. This will clean up all html files to a
 standardized format.
 
+## Adding Addresses to the Locations Page
+
+To update the Locations page, add addresses to the `locations.json`
+file, which is located in the `js/` directory. They will automatically
+populate to the page when it's loaded.
+
 ## Low Bandwidth Guidelines
 
 I've been using this website as a guide during development:

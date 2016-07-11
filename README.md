@@ -19,3 +19,9 @@ in the `_posts/` directory, and gets replaced when the script
 See [CONTRIBUTING.md]
 (https://github.com/KrashLeviathan/bible-foundation/blob/master/CONTRIBUTING.md)
 for more information.
+
+## Adding Addresses to the Locations Page
+
+To update the Locations page, add addresses to the `locations.json`
+file, which is located in the `js/` directory. They will automatically
+populate to the page when it's loaded.
