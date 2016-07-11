@@ -293,6 +293,11 @@ img {
   list-style: none; }
   .dictionary-list p {
     margin-left: 4em; }
+  .dictionary-list span {
+    float: right;
+    text-align: right; }
+    .dictionary-list span a {
+      margin-right: 4em; }
   .dictionary-list li:before {
     content: '\271E';
     margin: 0 1em; }
