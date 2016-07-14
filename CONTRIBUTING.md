@@ -117,3 +117,18 @@ to Jerry on all judgement calls in this matter.
   decades of experience are strong proof of credibility.
 - Look into creating an email subscription service for people who want
   to receive blog updates via email.
+
+### NOTES FROM 13 JULY 2016
+
+- Identify how to get everyone involved without a big workload (for Jerry)
+- Identify people who can handle large loads vs small loads of books.
+- How to keep the collections list and other lists up to date without
+  overwhelming effort to contact people?
+- Make it clear that even home-bound people with access to the internet
+  can help the network grow or contribute to the ministry.
+- Jerry is going to send over the files for the old website to assist
+  in creating the new website.
+  - He is familiar with and comfortable using Microsoft Frontpage,
+    Lotus 1-2-3, Microsoft Access, and TS Technical Word Processor.
+    He is able to setup macros and such to assist in his workflow.
+- Create a browser-based way to enter locations, using textfields.
