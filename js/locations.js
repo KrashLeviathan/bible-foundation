@@ -145,22 +145,29 @@ function compareLocations(a, b) {
     // Sort first by country
     if (!a.country && b.country) {
         return -1;
-    }
-    if (a.country && !b.country) {
+    } else if (a.country && !b.country) {
+        return 1;
+    } else if (a.country < b.country) {
+        return -1;
+    } else if (a.country > b.country) {
         return 1;
     }
     // Then by state
     if (a.state < b.state) {
         return -1;
+    } else if (a.state > b.state) {
+        return 1;
     }
-    if (a.state > b.state) {
+    // Then by city
+    if (a.city < b.city) {
+        return -1;
+    } else if (a.city > b.city) {
         return 1;
     }
     // Then by title
     if (a.title < b.title) {
         return -1;
-    }
-    if (a.title > b.title) {
+    } else if (a.title > b.title) {
         return 1;
     }
     return 0;
