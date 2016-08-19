@@ -1,0 +1,10 @@
+# robots.txt for http://www.bf.org/
+
+User-agent: *
+Disallow: /bfgraph/ # No graphics
+Disallow: /Guestbook/
+Disallow: /wwwboard/
+Disallow: /linking.htm
+Disallow: /cgi-bin/
+Disallow: /wusage
+
